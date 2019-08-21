@@ -1,0 +1,2224 @@
+{
+    "id": "https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_11.json",
+    "mirador": "https://mirador.dlcs-ida.org/mirador?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_11.json",
+    "uv": "https://universalviewer.io/uv.html?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_11.json",
+    "search_service": "https://mathmos.glam-dev.org/search/aHR0cDovL21hdHRtY2dyYXR0YW4uZ2l0aHViLmlvL0xTRS91d3RfZF8xXzFfMTEuanNvbg==/search/oa",
+    "search_autocomplete": "https://mathmos.glam-dev.org/search/aHR0cDovL21hdHRtY2dyYXR0YW4uZ2l0aHViLmlvL0xTRS91d3RfZF8xXzFfMTEuanNvbg==/autocomplete/oa",
+    "number_of_pages": 1,
+    "canvas_summaries": [
+        {
+            "page_position": 0,
+            "Transcription_annotations": "https://transcriptions.glam-dev.org/annotations/line/?width=1965&canvas=http%3A%2F%2Fmattmcgrattan.github.io%2FLSE%2Fuwt_d_1_1_11%2Fcanvas%2F0&image=https%3A%2F%2Fdlc.services%2Fiiif-img%2F4%2F9%2Fb36ffdc0-3212-4975-a1c9-3210d20261f8&height=2838",
+            "Named_Entity_Extraction_Annotations": "https://annotations.glam-dev.org/annotationlist/bf0ad78d1ff285ad9c15452ffba9679a/",
+            "ocr_uri": "https://starsky.glam-dev.org/plaintext/?imageURI=https%3A//dlc.services/iiif-img/4/9/b36ffdc0-3212-4975-a1c9-3210d20261f8",
+            "ocr_lines_uri": "https://starsky.glam-dev.org/plaintextlines/?imageURI=https%3A//dlc.services/iiif-img/4/9/b36ffdc0-3212-4975-a1c9-3210d20261f8&width=1965&height=2838",
+            "ocr_text": "vertolli National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7. Six Reasons why Men and Women Teachers should receive EQUAL PAY 1. The length of training for men and women is EQUAL 2. Their hours of work are EQUAL. 3. Their grant- earning capacity is EQUAL. 4. Regulations governing the size of the classes they teach are EQUAL. 5. The cost of living is EQUAL. 6. The charge for railway, car, theatre and all other tickets is EQUAL. Thus, the price of goods which men and women buy is EQUAL But, the payment for labour which men and women sell is UNEQUAL. Do you believe that women teachers doing EQUAL WORK should receive only four- fifths of the men' s rate? IF NOT, JOIN THE N. U. W. T. which is working to establish the principle of equal pay for men and women teachers of the same professional status.",
+            "clean_text": "vertolli National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7. Six Reasons why Men and Women Teachers should receive EQUAL PAY 1. The length of training for men and women is EQUAL 2. Their hours of work are EQUAL. 3. Their grant- earning capacity is EQUAL. 4. Regulations governing the size of the classes they teach are EQUAL. 5. The cost of living is EQUAL. 6. The charge for railway, car, theatre and all other tickets is EQUAL. Thus, the price of goods which men and women buy is EQUAL But, the payment for labour which men and women sell is UNEQUAL. Do you believe that women teachers doing EQUAL WORK should receive only four- fifths of the men' s rate? IF NOT, JOIN THE N. U. W. T. which is working to establish the principle of equal pay for men and women teachers of the same professional status.",
+            "sentences": [
+                {
+                    "text": "vertolli National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7.",
+                    "ascii": "vertolli National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7.",
+                    "tokens": [
+                        {
+                            "text": "vertolli",
+                            "lemma": "vertolli",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "National Union of Women Teachers",
+                            "lemma": "National",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "nmod",
+                            "shape": "Xxxxx Xxxxx xx Xxxxx Xxxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "41",
+                            "lemma": "41",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "nummod",
+                            "shape": "dd",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "CROMWELL",
+                            "lemma": "CROMWELL",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "ROAD",
+                            "lemma": "ROAD",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "ROOT",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "SOUTH",
+                            "lemma": "SOUTH",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "KENSINGTON",
+                            "lemma": "KENSINGTON",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "LONDON",
+                            "lemma": "LONDON",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "appos",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "S. W. 7",
+                            "lemma": "S.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "X. X. d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Six Reasons why Men and Women Teachers should receive EQUAL PAY 1.",
+                    "ascii": "Six Reasons why Men and Women Teachers should receive EQUAL PAY 1.",
+                    "tokens": [
+                        {
+                            "text": "Six",
+                            "lemma": "six",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "nummod",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Reasons",
+                            "lemma": "reason",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "ROOT",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "why",
+                            "lemma": "why",
+                            "pos": "ADV",
+                            "tag": "WRB",
+                            "dep": "advmod",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Men",
+                            "lemma": "Men",
+                            "pos": "PROPN",
+                            "tag": "NNPS",
+                            "dep": "nsubj",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Women",
+                            "lemma": "Women",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Teachers",
+                            "lemma": "Teachers",
+                            "pos": "PROPN",
+                            "tag": "NNPS",
+                            "dep": "conj",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "should",
+                            "lemma": "should",
+                            "pos": "VERB",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "receive",
+                            "lemma": "receive",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "relcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "PAY",
+                            "lemma": "pay",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "XXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "1",
+                            "lemma": "1",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "nummod",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "The length of training for men and women is EQUAL 2.",
+                    "ascii": "The length of training for men and women is EQUAL 2.",
+                    "tokens": [
+                        {
+                            "text": "The",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "length",
+                            "lemma": "length",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "training",
+                            "lemma": "training",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "men",
+                            "lemma": "man",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "women",
+                            "lemma": "woman",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ROOT",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "EQUAL",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "acomp",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "2",
+                            "lemma": "2",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "npadvmod",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Their hours of work are EQUAL.",
+                    "ascii": "Their hours of work are EQUAL.",
+                    "tokens": [
+                        {
+                            "text": "Their",
+                            "lemma": "-PRON-",
+                            "pos": "DET",
+                            "tag": "PRP$",
+                            "dep": "poss",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "hours",
+                            "lemma": "hour",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "work",
+                            "lemma": "work",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "are",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "ROOT",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "3.",
+                    "ascii": "3.",
+                    "tokens": [
+                        {
+                            "text": "3",
+                            "lemma": "3",
+                            "pos": "PUNCT",
+                            "tag": "LS",
+                            "dep": "ROOT",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Their grant- earning capacity is EQUAL.",
+                    "ascii": "Their grant- earning capacity is EQUAL.",
+                    "tokens": [
+                        {
+                            "text": "Their",
+                            "lemma": "-PRON-",
+                            "pos": "DET",
+                            "tag": "PRP$",
+                            "dep": "poss",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "grant-",
+                            "lemma": "grant-",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "compound",
+                            "shape": "xxxx-",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "earning",
+                            "lemma": "earn",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "capacity",
+                            "lemma": "capacity",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ROOT",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "4.",
+                    "ascii": "4.",
+                    "tokens": [
+                        {
+                            "text": "4",
+                            "lemma": "4",
+                            "pos": "PUNCT",
+                            "tag": "LS",
+                            "dep": "ROOT",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Regulations governing the size of the classes they teach are EQUAL.",
+                    "ascii": "Regulations governing the size of the classes they teach are EQUAL.",
+                    "tokens": [
+                        {
+                            "text": "Regulations",
+                            "lemma": "regulation",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "governing",
+                            "lemma": "govern",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "acl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "size",
+                            "lemma": "size",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "classes",
+                            "lemma": "class",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "they",
+                            "lemma": "-PRON-",
+                            "pos": "PRON",
+                            "tag": "PRP",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "teach",
+                            "lemma": "teach",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "relcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "are",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "ROOT",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "5.",
+                    "ascii": "5.",
+                    "tokens": [
+                        {
+                            "text": "5",
+                            "lemma": "5",
+                            "pos": "PUNCT",
+                            "tag": "LS",
+                            "dep": "ROOT",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "The cost of living is EQUAL.",
+                    "ascii": "The cost of living is EQUAL.",
+                    "tokens": [
+                        {
+                            "text": "The",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "cost",
+                            "lemma": "cost",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "living",
+                            "lemma": "living",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ROOT",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "6.",
+                    "ascii": "6.",
+                    "tokens": [
+                        {
+                            "text": "6",
+                            "lemma": "6",
+                            "pos": "PUNCT",
+                            "tag": "LS",
+                            "dep": "ROOT",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "The charge for railway, car, theatre and all other tickets is EQUAL.",
+                    "ascii": "The charge for railway, car, theatre and all other tickets is EQUAL.",
+                    "tokens": [
+                        {
+                            "text": "The",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "charge",
+                            "lemma": "charge",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "railway",
+                            "lemma": "railway",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "car",
+                            "lemma": "car",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "conj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "theatre",
+                            "lemma": "theatre",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "all",
+                            "lemma": "all",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "other",
+                            "lemma": "other",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "tickets",
+                            "lemma": "ticket",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ROOT",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Thus, the price of goods which men and women buy is EQUAL But, the payment for labour which men and women sell is UNEQUAL.",
+                    "ascii": "Thus, the price of goods which men and women buy is EQUAL But, the payment for labour which men and women sell is UNEQUAL.",
+                    "tokens": [
+                        {
+                            "text": "Thus",
+                            "lemma": "thus",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "advmod",
+                            "shape": "Xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "price",
+                            "lemma": "price",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "goods",
+                            "lemma": "good",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "which",
+                            "lemma": "which",
+                            "pos": "DET",
+                            "tag": "WDT",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "men",
+                            "lemma": "man",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "women",
+                            "lemma": "woman",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "buy",
+                            "lemma": "buy",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "relcl",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ROOT",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "But",
+                            "lemma": "but",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "payment",
+                            "lemma": "payment",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "labour",
+                            "lemma": "labour",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "which",
+                            "lemma": "which",
+                            "pos": "DET",
+                            "tag": "WDT",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "men",
+                            "lemma": "man",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "women",
+                            "lemma": "woman",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "sell",
+                            "lemma": "sell",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "relcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "conj",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "UNEQUAL",
+                            "lemma": "unequal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Do you believe that women teachers doing EQUAL WORK should receive only four- fifths of the men' s rate?",
+                    "ascii": "Do you believe that women teachers doing EQUAL WORK should receive only four- fifths of the men' s rate?",
+                    "tokens": [
+                        {
+                            "text": "Do",
+                            "lemma": "Do",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "aux",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "you",
+                            "lemma": "-PRON-",
+                            "pos": "PRON",
+                            "tag": "PRP",
+                            "dep": "nsubj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "believe",
+                            "lemma": "believe",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "that",
+                            "lemma": "that",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "mark",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "women",
+                            "lemma": "woman",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "teachers",
+                            "lemma": "teacher",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "doing",
+                            "lemma": "do",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "acl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "WORK",
+                            "lemma": "WORK",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "dobj",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "should",
+                            "lemma": "should",
+                            "pos": "VERB",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "receive",
+                            "lemma": "receive",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ccomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "only four- fifths",
+                            "lemma": "only",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "dobj",
+                            "shape": "xxxx xxxx- xxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "men",
+                            "lemma": "man",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "poss",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "'",
+                            "lemma": "'",
+                            "pos": "PART",
+                            "tag": "POS",
+                            "dep": "case",
+                            "shape": "'",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "s",
+                            "lemma": "s",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "case",
+                            "shape": "x",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "rate",
+                            "lemma": "rate",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "?",
+                            "lemma": "?",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": "?",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "IF NOT, JOIN THE N. U. W. T. which is working to establish the principle of equal pay for men and women teachers of the same professional status.",
+                    "ascii": "IF NOT, JOIN THE N. U. W. T. which is working to establish the principle of equal pay for men and women teachers of the same professional status.",
+                    "tokens": [
+                        {
+                            "text": "IF",
+                            "lemma": "if",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "mark",
+                            "shape": "XX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "NOT",
+                            "lemma": "not",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "advcl",
+                            "shape": "XXX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "JOIN",
+                            "lemma": "join",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ROOT",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "THE",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "XXX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "N.",
+                            "lemma": "n.",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "compound",
+                            "shape": "X.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "U.",
+                            "lemma": "U.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "X.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "W.",
+                            "lemma": "W.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "X.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "T.",
+                            "lemma": "t.",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "X.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "which",
+                            "lemma": "which",
+                            "pos": "DET",
+                            "tag": "WDT",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "aux",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "working",
+                            "lemma": "work",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "relcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "PART",
+                            "tag": "TO",
+                            "dep": "aux",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "establish",
+                            "lemma": "establish",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "advcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "principle",
+                            "lemma": "principle",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "equal",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "pay",
+                            "lemma": "pay",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "men",
+                            "lemma": "man",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nmod",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "women",
+                            "lemma": "woman",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "teachers",
+                            "lemma": "teacher",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "same",
+                            "lemma": "same",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "professional",
+                            "lemma": "professional",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "status",
+                            "lemma": "status",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                }
+            ],
+            "proper_nouns": [
+                "vertolli",
+                "National Union of Women Teachers",
+                "CROMWELL",
+                "ROAD",
+                "SOUTH",
+                "KENSINGTON",
+                "LONDON",
+                "S. W. 7",
+                "Men",
+                "Women",
+                "Teachers",
+                "EQUAL",
+                "WORK",
+                "U.",
+                "W."
+            ],
+            "lemmas": [
+                "vertolli",
+                "cromwell",
+                "road",
+                "south",
+                "kensington",
+                "london",
+                "reason",
+                "men",
+                "women",
+                "teachers",
+                "receive",
+                "equal",
+                "pay",
+                "length",
+                "training",
+                "man",
+                "woman",
+                "equal",
+                "hour",
+                "work",
+                "equal",
+                "earn",
+                "capacity",
+                "equal",
+                "regulation",
+                "govern",
+                "size",
+                "class",
+                "teach",
+                "equal",
+                "cost",
+                "living",
+                "equal",
+                "charge",
+                "railway",
+                "car",
+                "theatre",
+                "ticket",
+                "equal",
+                "price",
+                "good",
+                "man",
+                "woman",
+                "buy",
+                "equal",
+                "payment",
+                "labour",
+                "man",
+                "woman",
+                "sell",
+                "unequal",
+                "believe",
+                "woman",
+                "teacher",
+                "equal",
+                "work",
+                "receive",
+                "man",
+                "rate",
+                "join",
+                "work",
+                "establish",
+                "principle",
+                "equal",
+                "pay",
+                "man",
+                "woman",
+                "teacher",
+                "professional",
+                "status"
+            ],
+            "entities": [
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "National Union of Women Teachers"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "GPE",
+                    "text": "KENSINGTON"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "GPE",
+                    "text": "LONDON"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "DATE",
+                    "text": "S. W. 7"
+                }
+            ],
+            "ocr_allcaps": [
+                "CROMWELL ROAD",
+                "SOUTH KENSINGTON",
+                "LONDON",
+                "S",
+                "W",
+                "EQUAL PAY",
+                "EQUAL",
+                "EQUAL",
+                "EQUAL",
+                "EQUAL",
+                "EQUAL",
+                "EQUAL",
+                "EQUAL",
+                "UNEQUAL",
+                "EQUAL WORK",
+                "IF NOT",
+                "JOIN THE N",
+                "U",
+                "W",
+                "T"
+            ]
+        }
+    ],
+    "manifest_text": "vertolli National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7. Six Reasons why Men and Women Teachers should receive EQUAL PAY 1. The length of training for men and women is EQUAL 2. Their hours of work are EQUAL. 3. Their grant- earning capacity is EQUAL. 4. Regulations governing the size of the classes they teach are EQUAL. 5. The cost of living is EQUAL. 6. The charge for railway, car, theatre and all other tickets is EQUAL. Thus, the price of goods which men and women buy is EQUAL But, the payment for labour which men and women sell is UNEQUAL. Do you believe that women teachers doing EQUAL WORK should receive only four- fifths of the men' s rate? IF NOT, JOIN THE N. U. W. T. which is working to establish the principle of equal pay for men and women teachers of the same professional status.",
+    "text_summaries": [
+        {
+            "summarizer": "LSA",
+            "summary": "vertolli National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7.<br>Six Reasons why Men and Women Teachers should receive EQUAL PAY 1.<br>Regulations governing the size of the classes they teach are EQUAL.<br>Do you believe that women teachers doing EQUAL WORK should receive only four- fifths of the men' s rate?<br>IF NOT, JOIN THE N. U. W. T. which is working to establish the principle of equal pay for men and women teachers of the same professional status."
+        },
+        {
+            "summarizer": "Luhn",
+            "summary": "vertolli National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7.<br>Six Reasons why Men and Women Teachers should receive EQUAL PAY 1.<br>The length of training for men and women is EQUAL 2.<br>Do you believe that women teachers doing EQUAL WORK should receive only four- fifths of the men' s rate?<br>IF NOT, JOIN THE N. U. W. T. which is working to establish the principle of equal pay for men and women teachers of the same professional status."
+        },
+        {
+            "summarizer": "Reduction",
+            "summary": "Six Reasons why Men and Women Teachers should receive EQUAL PAY 1.<br>The length of training for men and women is EQUAL 2.<br>Thus, the price of goods which men and women buy is EQUAL But, the payment for labour which men and women sell is UNEQUAL.<br>Do you believe that women teachers doing EQUAL WORK should receive only four- fifths of the men' s rate?<br>IF NOT, JOIN THE N. U. W. T. which is working to establish the principle of equal pay for men and women teachers of the same professional status."
+        },
+        {
+            "summarizer": "KL",
+            "summary": "vertolli National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7.<br>Six Reasons why Men and Women Teachers should receive EQUAL PAY 1.<br>3.<br>4.<br>5."
+        },
+        {
+            "summarizer": "TextRank",
+            "summary": "Six Reasons why Men and Women Teachers should receive EQUAL PAY 1.<br>The length of training for men and women is EQUAL 2.<br>Thus, the price of goods which men and women buy is EQUAL But, the payment for labour which men and women sell is UNEQUAL.<br>Do you believe that women teachers doing EQUAL WORK should receive only four- fifths of the men' s rate?<br>IF NOT, JOIN THE N. U. W. T. which is working to establish the principle of equal pay for men and women teachers of the same professional status."
+        },
+        {
+            "summarizer": "LexRank",
+            "summary": "vertolli National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7.<br>Six Reasons why Men and Women Teachers should receive EQUAL PAY 1.<br>Their grant- earning capacity is EQUAL.<br>Regulations governing the size of the classes they teach are EQUAL.<br>Do you believe that women teachers doing EQUAL WORK should receive only four- fifths of the men' s rate?"
+        }
+    ],
+    "lemmas": [
+        "vertolli",
+        "cromwell",
+        "road",
+        "south",
+        "kensington",
+        "london",
+        "reason",
+        "men",
+        "women",
+        "teachers",
+        "receive",
+        "equal",
+        "pay",
+        "length",
+        "training",
+        "man",
+        "woman",
+        "equal",
+        "hour",
+        "work",
+        "equal",
+        "earn",
+        "capacity",
+        "equal",
+        "regulation",
+        "govern",
+        "size",
+        "class",
+        "teach",
+        "equal",
+        "cost",
+        "living",
+        "equal",
+        "charge",
+        "railway",
+        "car",
+        "theatre",
+        "ticket",
+        "equal",
+        "price",
+        "good",
+        "man",
+        "woman",
+        "buy",
+        "equal",
+        "payment",
+        "labour",
+        "man",
+        "woman",
+        "sell",
+        "unequal",
+        "believe",
+        "woman",
+        "teacher",
+        "equal",
+        "work",
+        "receive",
+        "man",
+        "rate",
+        "join",
+        "work",
+        "establish",
+        "principle",
+        "equal",
+        "pay",
+        "man",
+        "woman",
+        "teacher",
+        "professional",
+        "status"
+    ],
+    "entities": {
+        "ORG": [
+            "National Union of Women Teachers"
+        ],
+        "GPE": [
+            "KENSINGTON",
+            "LONDON"
+        ],
+        "DATE": [
+            "S. W. 7"
+        ]
+    },
+    "corpus": "vertolli cromwell road south kensington london reason men women teachers receive equal pay length training man woman equal hour work equal earn capacity equal regulation govern size class teach equal cost living equal charge railway car theatre ticket equal price good man woman buy equal payment labour man woman sell unequal believe woman teacher equal work receive man rate join work establish principle equal pay man woman teacher professional status",
+    "top_10_words": [
+        [
+            "equal",
+            10
+        ],
+        [
+            "man",
+            5
+        ],
+        [
+            "woman",
+            5
+        ],
+        [
+            "work",
+            3
+        ],
+        [
+            "receive",
+            2
+        ],
+        [
+            "pay",
+            2
+        ],
+        [
+            "teacher",
+            2
+        ],
+        [
+            "vertolli",
+            1
+        ],
+        [
+            "cromwell",
+            1
+        ],
+        [
+            "road",
+            1
+        ]
+    ],
+    "top_10_bigrams": [
+        [
+            "man woman",
+            4
+        ],
+        [
+            "equal pay",
+            2
+        ],
+        [
+            "woman teacher",
+            2
+        ],
+        [
+            "vertolli cromwell",
+            1
+        ],
+        [
+            "cromwell road",
+            1
+        ],
+        [
+            "road south",
+            1
+        ],
+        [
+            "south kensington",
+            1
+        ],
+        [
+            "kensington london",
+            1
+        ],
+        [
+            "london reason",
+            1
+        ],
+        [
+            "reason men",
+            1
+        ]
+    ],
+    "keywords": [
+        {
+            "keyword": "equal",
+            "Term Frequency-Inverse Document Frequency score": 0.523
+        },
+        {
+            "keyword": "woman",
+            "Term Frequency-Inverse Document Frequency score": 0.262
+        },
+        {
+            "keyword": "man",
+            "Term Frequency-Inverse Document Frequency score": 0.262
+        },
+        {
+            "keyword": "man woman",
+            "Term Frequency-Inverse Document Frequency score": 0.209
+        },
+        {
+            "keyword": "work",
+            "Term Frequency-Inverse Document Frequency score": 0.157
+        },
+        {
+            "keyword": "woman teacher",
+            "Term Frequency-Inverse Document Frequency score": 0.105
+        },
+        {
+            "keyword": "teacher",
+            "Term Frequency-Inverse Document Frequency score": 0.105
+        },
+        {
+            "keyword": "receive",
+            "Term Frequency-Inverse Document Frequency score": 0.105
+        },
+        {
+            "keyword": "pay",
+            "Term Frequency-Inverse Document Frequency score": 0.105
+        },
+        {
+            "keyword": "equal pay",
+            "Term Frequency-Inverse Document Frequency score": 0.105
+        }
+    ],
+    "corpus_relative_keywords": [
+        {
+            "keyword": "equal",
+            "Term Frequency-Inverse Document Frequency score": 0.313
+        },
+        {
+            "keyword": "woman",
+            "Term Frequency-Inverse Document Frequency score": 0.173
+        },
+        {
+            "keyword": "man woman",
+            "Term Frequency-Inverse Document Frequency score": 0.17
+        },
+        {
+            "keyword": "man",
+            "Term Frequency-Inverse Document Frequency score": 0.165
+        },
+        {
+            "keyword": "woman teacher",
+            "Term Frequency-Inverse Document Frequency score": 0.164
+        }
+    ],
+    "subjects_likely": [
+        "Equal pay for equal work.",
+        "Equal pay for equal work--Canada.",
+        "Great Britain--women teachers--equal pay.",
+        "Great Britain--women teachers--equal pay--history.",
+        "Equal pay for equal work--Australia."
+    ],
+    "subjects_possible": [
+        "Equal pay for equal work.",
+        "Equal pay for equal work--Canada.",
+        "Great Britain--women teachers--equal pay.",
+        "Great Britain--women teachers--equal pay--history.",
+        "Equal pay for equal work--Australia.",
+        "Equal pay for equal work--United States.",
+        "Equal pay for equal work--Great Britain.",
+        "Great Britain--women--equal pay.",
+        "Europe--women--equal pay.",
+        "Night work."
+    ],
+    "further_data": "https://mattmcgrattan.github.io/LSE/uwt_d_1_1_11_enrichment_new.json"
+}

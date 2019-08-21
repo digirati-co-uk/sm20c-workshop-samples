@@ -1,0 +1,2023 @@
+{
+    "id": "https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_10.json",
+    "mirador": "https://mirador.dlcs-ida.org/mirador?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_10.json",
+    "uv": "https://universalviewer.io/uv.html?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_10.json",
+    "search_service": "https://mathmos.glam-dev.org/search/aHR0cDovL21hdHRtY2dyYXR0YW4uZ2l0aHViLmlvL0xTRS91d3RfZF8xXzFfMTAuanNvbg==/search/oa",
+    "search_autocomplete": "https://mathmos.glam-dev.org/search/aHR0cDovL21hdHRtY2dyYXR0YW4uZ2l0aHViLmlvL0xTRS91d3RfZF8xXzFfMTAuanNvbg==/autocomplete/oa",
+    "number_of_pages": 1,
+    "canvas_summaries": [
+        {
+            "page_position": 0,
+            "Transcription_annotations": "https://transcriptions.glam-dev.org/annotations/line/?width=1949&canvas=http%3A%2F%2Fmattmcgrattan.github.io%2FLSE%2Fuwt_d_1_1_10%2Fcanvas%2F0&image=https%3A%2F%2Fdlc.services%2Fiiif-img%2F4%2F9%2Fb4cbe1bb-f941-4674-8324-7b65b15a309a&height=2841",
+            "Named_Entity_Extraction_Annotations": "https://annotations.glam-dev.org/annotationlist/0764de765feff36d5e43c94c8257c5f6/",
+            "ocr_uri": "https://starsky.glam-dev.org/plaintext/?imageURI=https%3A//dlc.services/iiif-img/4/9/b4cbe1bb-f941-4674-8324-7b65b15a309a",
+            "ocr_lines_uri": "https://starsky.glam-dev.org/plaintextlines/?imageURI=https%3A//dlc.services/iiif-img/4/9/b4cbe1bb-f941-4674-8324-7b65b15a309a&width=1949&height=2841",
+            "ocr_text": "outlolitinio National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7. Salaries and Family Responsibilities 1. Do married men receive higher salaries than bachelors? 2.. Do men with families receive more than those with no children? 3. Do men with large families receive more than those with small families? 4. Do assistant masters, with young children to sup port, receive higher salaries than headmasters whose children have become self- supporting? 5. Do widows with a family to support receive the same salary as men? Since the answer is NO in every case, it is obvious that salaries are not based on responsibilities. Payment is made for services rendered; Women Teachers therefore demand EQUAL PAY FOR WORK OF EQUAL VALUE. Join the N. U. W. T. and help to establish this principle in the teaching profession.",
+            "clean_text": "outlolitinio National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7. Salaries and Family Responsibilities 1. Do married men receive higher salaries than bachelors? 2.. Do men with families receive more than those with no children? 3. Do men with large families receive more than those with small families? 4. Do assistant masters, with young children to sup port, receive higher salaries than headmasters whose children have become self- supporting? 5. Do widows with a family to support receive the same salary as men? Since the answer is NO in every case, it is obvious that salaries are not based on responsibilities. Payment is made for services rendered; Women Teachers therefore demand EQUAL PAY FOR WORK OF EQUAL VALUE. Join the N. U. W. T. and help to establish this principle in the teaching profession.",
+            "sentences": [
+                {
+                    "text": "outlolitinio National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7.",
+                    "ascii": "outlolitinio National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7.",
+                    "tokens": [
+                        {
+                            "text": "outlolitinio",
+                            "lemma": "outlolitinio",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "National Union of Women Teachers",
+                            "lemma": "National",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "pobj",
+                            "shape": "Xxxxx Xxxxx xx Xxxxx Xxxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "41",
+                            "lemma": "41",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "nummod",
+                            "shape": "dd",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "CROMWELL",
+                            "lemma": "CROMWELL",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "ROAD",
+                            "lemma": "ROAD",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "conj",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "SOUTH",
+                            "lemma": "SOUTH",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "KENSINGTON",
+                            "lemma": "KENSINGTON",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "LONDON",
+                            "lemma": "LONDON",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "conj",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "S. W. 7",
+                            "lemma": "S.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "X. X. d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Salaries and Family Responsibilities 1.",
+                    "ascii": "Salaries and Family Responsibilities 1.",
+                    "tokens": [
+                        {
+                            "text": "Salaries",
+                            "lemma": "salary",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "ROOT",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Family",
+                            "lemma": "Family",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Responsibilities",
+                            "lemma": "Responsibilities",
+                            "pos": "PROPN",
+                            "tag": "NNPS",
+                            "dep": "conj",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "1",
+                            "lemma": "1",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "nummod",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Do married men receive higher salaries than bachelors?",
+                    "ascii": "Do married men receive higher salaries than bachelors?",
+                    "tokens": [
+                        {
+                            "text": "Do",
+                            "lemma": "Do",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "aux",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "married",
+                            "lemma": "married",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "men",
+                            "lemma": "man",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "receive",
+                            "lemma": "receive",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "higher",
+                            "lemma": "high",
+                            "pos": "ADJ",
+                            "tag": "JJR",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "salaries",
+                            "lemma": "salary",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "than",
+                            "lemma": "than",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "bachelors",
+                            "lemma": "bachelor",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "?",
+                            "lemma": "?",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": "?",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "2.. Do men with families receive more than those with no children?",
+                    "ascii": "2.. Do men with families receive more than those with no children?",
+                    "tokens": [
+                        {
+                            "text": "2",
+                            "lemma": "2",
+                            "pos": "PUNCT",
+                            "tag": "LS",
+                            "dep": "meta",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "..",
+                            "lemma": "..",
+                            "pos": "PUNCT",
+                            "tag": "NFP",
+                            "dep": "punct",
+                            "shape": "..",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Do",
+                            "lemma": "Do",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "aux",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "men",
+                            "lemma": "man",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "with",
+                            "lemma": "with",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "families",
+                            "lemma": "family",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "receive",
+                            "lemma": "receive",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "more",
+                            "lemma": "more",
+                            "pos": "ADJ",
+                            "tag": "JJR",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "than",
+                            "lemma": "than",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "those",
+                            "lemma": "those",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "with",
+                            "lemma": "with",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "no",
+                            "lemma": "no",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "children",
+                            "lemma": "child",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "?",
+                            "lemma": "?",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": "?",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "3.",
+                    "ascii": "3.",
+                    "tokens": [
+                        {
+                            "text": "3",
+                            "lemma": "3",
+                            "pos": "PUNCT",
+                            "tag": "LS",
+                            "dep": "ROOT",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Do men with large families receive more than those with small families?",
+                    "ascii": "Do men with large families receive more than those with small families?",
+                    "tokens": [
+                        {
+                            "text": "Do",
+                            "lemma": "Do",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "aux",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "men",
+                            "lemma": "man",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "with",
+                            "lemma": "with",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "large",
+                            "lemma": "large",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "families",
+                            "lemma": "family",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "receive",
+                            "lemma": "receive",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "more",
+                            "lemma": "more",
+                            "pos": "ADJ",
+                            "tag": "JJR",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "than",
+                            "lemma": "than",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "those",
+                            "lemma": "those",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "with",
+                            "lemma": "with",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "small",
+                            "lemma": "small",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "families",
+                            "lemma": "family",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "?",
+                            "lemma": "?",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": "?",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "4.",
+                    "ascii": "4.",
+                    "tokens": [
+                        {
+                            "text": "4",
+                            "lemma": "4",
+                            "pos": "PUNCT",
+                            "tag": "LS",
+                            "dep": "ROOT",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Do assistant masters, with young children to sup port, receive higher salaries than headmasters whose children have become self- supporting?",
+                    "ascii": "Do assistant masters, with young children to sup port, receive higher salaries than headmasters whose children have become self- supporting?",
+                    "tokens": [
+                        {
+                            "text": "Do",
+                            "lemma": "Do",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ROOT",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "assistant",
+                            "lemma": "assistant",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "masters",
+                            "lemma": "master",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "with",
+                            "lemma": "with",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "young",
+                            "lemma": "young",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "children",
+                            "lemma": "child",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "sup",
+                            "lemma": "sup",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "compound",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "port",
+                            "lemma": "port",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "receive",
+                            "lemma": "receive",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "dep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "higher",
+                            "lemma": "high",
+                            "pos": "ADJ",
+                            "tag": "JJR",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "salaries",
+                            "lemma": "salary",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "than",
+                            "lemma": "than",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "headmasters",
+                            "lemma": "headmaster",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "whose",
+                            "lemma": "whose",
+                            "pos": "DET",
+                            "tag": "WP$",
+                            "dep": "poss",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "children",
+                            "lemma": "child",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "have",
+                            "lemma": "have",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "become",
+                            "lemma": "become",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "relcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "self-",
+                            "lemma": "self-",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "npadvmod",
+                            "shape": "xxxx-",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "supporting",
+                            "lemma": "support",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "acomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "?",
+                            "lemma": "?",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": "?",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "5.",
+                    "ascii": "5.",
+                    "tokens": [
+                        {
+                            "text": "5",
+                            "lemma": "5",
+                            "pos": "PUNCT",
+                            "tag": "LS",
+                            "dep": "ROOT",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Do widows with a family to support receive the same salary as men?",
+                    "ascii": "Do widows with a family to support receive the same salary as men?",
+                    "tokens": [
+                        {
+                            "text": "Do",
+                            "lemma": "Do",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "csubj",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "widows",
+                            "lemma": "widow",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "with",
+                            "lemma": "with",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "a",
+                            "lemma": "a",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "x",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "family",
+                            "lemma": "family",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "PART",
+                            "tag": "TO",
+                            "dep": "aux",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "support",
+                            "lemma": "support",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "advcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "receive",
+                            "lemma": "receive",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "same",
+                            "lemma": "same",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "salary",
+                            "lemma": "salary",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "as",
+                            "lemma": "as",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "men",
+                            "lemma": "man",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "?",
+                            "lemma": "?",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": "?",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Since the answer is NO in every case, it is obvious that salaries are not based on responsibilities.",
+                    "ascii": "Since the answer is NO in every case, it is obvious that salaries are not based on responsibilities.",
+                    "tokens": [
+                        {
+                            "text": "Since",
+                            "lemma": "since",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "mark",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "answer",
+                            "lemma": "answer",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "advcl",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "NO",
+                            "lemma": "no",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "acomp",
+                            "shape": "XX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "in",
+                            "lemma": "in",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "every",
+                            "lemma": "every",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "case",
+                            "lemma": "case",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "it",
+                            "lemma": "-PRON-",
+                            "pos": "PRON",
+                            "tag": "PRP",
+                            "dep": "nsubj",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ROOT",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "obvious",
+                            "lemma": "obvious",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "that",
+                            "lemma": "that",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "mark",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "salaries",
+                            "lemma": "salary",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubjpass",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "are",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "auxpass",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "not",
+                            "lemma": "not",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "neg",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "based",
+                            "lemma": "base",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "ccomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "on",
+                            "lemma": "on",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "responsibilities",
+                            "lemma": "responsibility",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Payment is made for services rendered; Women Teachers therefore demand EQUAL PAY FOR WORK OF EQUAL VALUE.",
+                    "ascii": "Payment is made for services rendered; Women Teachers therefore demand EQUAL PAY FOR WORK OF EQUAL VALUE.",
+                    "tokens": [
+                        {
+                            "text": "Payment",
+                            "lemma": "payment",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubjpass",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "auxpass",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "made",
+                            "lemma": "make",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "ccomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "services",
+                            "lemma": "service",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "rendered",
+                            "lemma": "render",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "acl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ";",
+                            "lemma": ";",
+                            "pos": "PUNCT",
+                            "tag": ":",
+                            "dep": "punct",
+                            "shape": ";",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Women",
+                            "lemma": "Women",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Teachers",
+                            "lemma": "Teachers",
+                            "pos": "PROPN",
+                            "tag": "NNPS",
+                            "dep": "nsubj",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "therefore",
+                            "lemma": "therefore",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "advmod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "demand",
+                            "lemma": "demand",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "PAY",
+                            "lemma": "pay",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "XXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "FOR",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "XXX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "WORK",
+                            "lemma": "work",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "OF",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "XX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "VALUE",
+                            "lemma": "value",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Join the N. U. W. T. and help to establish this principle in the teaching profession.",
+                    "ascii": "Join the N. U. W. T. and help to establish this principle in the teaching profession.",
+                    "tokens": [
+                        {
+                            "text": "Join",
+                            "lemma": "join",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ROOT",
+                            "shape": "Xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "N.",
+                            "lemma": "n.",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "compound",
+                            "shape": "X.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "U.",
+                            "lemma": "U.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "X.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "W.",
+                            "lemma": "W.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "X.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "T.",
+                            "lemma": "t.",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "X.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "help",
+                            "lemma": "help",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "PART",
+                            "tag": "TO",
+                            "dep": "aux",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "establish",
+                            "lemma": "establish",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "xcomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "this",
+                            "lemma": "this",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "principle",
+                            "lemma": "principle",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "in",
+                            "lemma": "in",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "teaching",
+                            "lemma": "teaching",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "profession",
+                            "lemma": "profession",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                }
+            ],
+            "proper_nouns": [
+                "outlolitinio",
+                "National Union of Women Teachers",
+                "CROMWELL",
+                "ROAD",
+                "SOUTH",
+                "KENSINGTON",
+                "LONDON",
+                "S. W. 7",
+                "Family",
+                "Responsibilities",
+                "Women",
+                "Teachers",
+                "U.",
+                "W."
+            ],
+            "lemmas": [
+                "outlolitinio",
+                "cromwell",
+                "road",
+                "south",
+                "kensington",
+                "london",
+                "salary",
+                "family",
+                "responsibilities",
+                "married",
+                "man",
+                "receive",
+                "high",
+                "salary",
+                "bachelor",
+                "man",
+                "family",
+                "receive",
+                "child",
+                "man",
+                "large",
+                "family",
+                "receive",
+                "small",
+                "family",
+                "assistant",
+                "master",
+                "young",
+                "child",
+                "sup",
+                "port",
+                "receive",
+                "high",
+                "salary",
+                "headmaster",
+                "child",
+                "support",
+                "widow",
+                "family",
+                "support",
+                "receive",
+                "salary",
+                "man",
+                "answer",
+                "case",
+                "obvious",
+                "salary",
+                "base",
+                "responsibility",
+                "payment",
+                "service",
+                "render",
+                "women",
+                "teachers",
+                "demand",
+                "equal",
+                "pay",
+                "work",
+                "equal",
+                "value",
+                "join",
+                "help",
+                "establish",
+                "principle",
+                "teaching",
+                "profession"
+            ],
+            "entities": [
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "National Union of Women Teachers"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "GPE",
+                    "text": "KENSINGTON"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "GPE",
+                    "text": "LONDON"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "DATE",
+                    "text": "S. W. 7"
+                }
+            ],
+            "ocr_allcaps": [
+                "CROMWELL ROAD",
+                "SOUTH KENSINGTON",
+                "LONDON",
+                "S",
+                "W",
+                "NO",
+                "EQUAL PAY FOR WORK OF EQUAL VALUE",
+                "N",
+                "U",
+                "W",
+                "T"
+            ]
+        }
+    ],
+    "manifest_text": "outlolitinio National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7. Salaries and Family Responsibilities 1. Do married men receive higher salaries than bachelors? 2.. Do men with families receive more than those with no children? 3. Do men with large families receive more than those with small families? 4. Do assistant masters, with young children to sup port, receive higher salaries than headmasters whose children have become self- supporting? 5. Do widows with a family to support receive the same salary as men? Since the answer is NO in every case, it is obvious that salaries are not based on responsibilities. Payment is made for services rendered; Women Teachers therefore demand EQUAL PAY FOR WORK OF EQUAL VALUE. Join the N. U. W. T. and help to establish this principle in the teaching profession.",
+    "text_summaries": [
+        {
+            "summarizer": "LSA",
+            "summary": "outlolitinio National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7.<br>Do married men receive higher salaries than bachelors?<br>Do widows with a family to support receive the same salary as men?<br>Since the answer is NO in every case, it is obvious that salaries are not based on responsibilities.<br>Join the N. U. W. T. and help to establish this principle in the teaching profession."
+        },
+        {
+            "summarizer": "Luhn",
+            "summary": "Salaries and Family Responsibilities 1.<br>Do married men receive higher salaries than bachelors?<br>2.. Do men with families receive more than those with no children?<br>Do assistant masters, with young children to sup port, receive higher salaries than headmasters whose children have become self- supporting?<br>Do widows with a family to support receive the same salary as men?"
+        },
+        {
+            "summarizer": "Reduction",
+            "summary": "Salaries and Family Responsibilities 1.<br>Do married men receive higher salaries than bachelors?<br>2.. Do men with families receive more than those with no children?<br>Do men with large families receive more than those with small families?<br>Do widows with a family to support receive the same salary as men?"
+        },
+        {
+            "summarizer": "KL",
+            "summary": "2.. Do men with families receive more than those with no children?<br>3.<br>Do men with large families receive more than those with small families?<br>Do widows with a family to support receive the same salary as men?<br>Join the N. U. W. T. and help to establish this principle in the teaching profession."
+        },
+        {
+            "summarizer": "TextRank",
+            "summary": "2.. Do men with families receive more than those with no children?<br>Do men with large families receive more than those with small families?<br>Do assistant masters, with young children to sup port, receive higher salaries than headmasters whose children have become self- supporting?<br>Do widows with a family to support receive the same salary as men?<br>Payment is made for services rendered; Women Teachers therefore demand EQUAL PAY FOR WORK OF EQUAL VALUE."
+        },
+        {
+            "summarizer": "LexRank",
+            "summary": "outlolitinio National Union of Women Teachers 41 CROMWELL ROAD, SOUTH KENSINGTON, LONDON, S. W. 7.<br>Salaries and Family Responsibilities 1.<br>2.. Do men with families receive more than those with no children?<br>Do men with large families receive more than those with small families?<br>Do widows with a family to support receive the same salary as men?"
+        }
+    ],
+    "lemmas": [
+        "outlolitinio",
+        "cromwell",
+        "road",
+        "south",
+        "kensington",
+        "london",
+        "salary",
+        "family",
+        "responsibilities",
+        "married",
+        "man",
+        "receive",
+        "high",
+        "salary",
+        "bachelor",
+        "man",
+        "family",
+        "receive",
+        "child",
+        "man",
+        "large",
+        "family",
+        "receive",
+        "small",
+        "family",
+        "assistant",
+        "master",
+        "young",
+        "child",
+        "sup",
+        "port",
+        "receive",
+        "high",
+        "salary",
+        "headmaster",
+        "child",
+        "support",
+        "widow",
+        "family",
+        "support",
+        "receive",
+        "salary",
+        "man",
+        "answer",
+        "case",
+        "obvious",
+        "salary",
+        "base",
+        "responsibility",
+        "payment",
+        "service",
+        "render",
+        "women",
+        "teachers",
+        "demand",
+        "equal",
+        "pay",
+        "work",
+        "equal",
+        "value",
+        "join",
+        "help",
+        "establish",
+        "principle",
+        "teaching",
+        "profession"
+    ],
+    "entities": {
+        "ORG": [
+            "National Union of Women Teachers"
+        ],
+        "GPE": [
+            "KENSINGTON",
+            "LONDON"
+        ],
+        "DATE": [
+            "S. W. 7"
+        ]
+    },
+    "corpus": "outlolitinio cromwell road south kensington london salary family responsibilities married man receive high salary bachelor man family receive child man large family receive small family assistant master young child sup port receive high salary headmaster child support widow family support receive salary man answer case obvious salary base responsibility payment service render women teachers demand equal pay work equal value join help establish principle teaching profession",
+    "top_10_words": [
+        [
+            "salary",
+            5
+        ],
+        [
+            "family",
+            5
+        ],
+        [
+            "receive",
+            5
+        ],
+        [
+            "man",
+            4
+        ],
+        [
+            "child",
+            3
+        ],
+        [
+            "high",
+            2
+        ],
+        [
+            "support",
+            2
+        ],
+        [
+            "equal",
+            2
+        ],
+        [
+            "outlolitinio",
+            1
+        ],
+        [
+            "cromwell",
+            1
+        ]
+    ],
+    "top_10_bigrams": [
+        [
+            "receive high",
+            2
+        ],
+        [
+            "high salary",
+            2
+        ],
+        [
+            "family receive",
+            2
+        ],
+        [
+            "outlolitinio cromwell",
+            1
+        ],
+        [
+            "cromwell road",
+            1
+        ],
+        [
+            "road south",
+            1
+        ],
+        [
+            "south kensington",
+            1
+        ],
+        [
+            "kensington london",
+            1
+        ],
+        [
+            "london salary",
+            1
+        ],
+        [
+            "salary family",
+            1
+        ]
+    ],
+    "keywords": [
+        {
+            "keyword": "salary",
+            "Term Frequency-Inverse Document Frequency score": 0.295
+        },
+        {
+            "keyword": "receive",
+            "Term Frequency-Inverse Document Frequency score": 0.295
+        },
+        {
+            "keyword": "family",
+            "Term Frequency-Inverse Document Frequency score": 0.295
+        },
+        {
+            "keyword": "man",
+            "Term Frequency-Inverse Document Frequency score": 0.236
+        },
+        {
+            "keyword": "child",
+            "Term Frequency-Inverse Document Frequency score": 0.177
+        },
+        {
+            "keyword": "support",
+            "Term Frequency-Inverse Document Frequency score": 0.118
+        },
+        {
+            "keyword": "receive high salary",
+            "Term Frequency-Inverse Document Frequency score": 0.118
+        },
+        {
+            "keyword": "receive high",
+            "Term Frequency-Inverse Document Frequency score": 0.118
+        },
+        {
+            "keyword": "high salary",
+            "Term Frequency-Inverse Document Frequency score": 0.118
+        },
+        {
+            "keyword": "high",
+            "Term Frequency-Inverse Document Frequency score": 0.118
+        }
+    ],
+    "corpus_relative_keywords": [
+        {
+            "keyword": "family",
+            "Term Frequency-Inverse Document Frequency score": 0.27
+        },
+        {
+            "keyword": "salary",
+            "Term Frequency-Inverse Document Frequency score": 0.204
+        },
+        {
+            "keyword": "receive high salary",
+            "Term Frequency-Inverse Document Frequency score": 0.198
+        },
+        {
+            "keyword": "receive high",
+            "Term Frequency-Inverse Document Frequency score": 0.198
+        },
+        {
+            "keyword": "high salary",
+            "Term Frequency-Inverse Document Frequency score": 0.198
+        }
+    ],
+    "subjects_likely": [],
+    "subjects_possible": [
+        "Child labor.",
+        "Child welfare.",
+        "Family allowances.",
+        "Parent and child--Great Britain.",
+        "Child labor--Law and legislation--Isle of Man."
+    ],
+    "further_data": "https://mattmcgrattan.github.io/LSE/uwt_d_1_1_10_enrichment_new.json"
+}

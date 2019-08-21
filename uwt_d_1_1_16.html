@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Manifest</title>
+    <style>
+        .container {
+            background: #f9f9f9;
+        }
+
+        .flex-column {
+            max-width: 300px;
+        }
+
+        img {
+            margin: 25px;
+        }
+
+        .scale {
+            transform: scaleY(1);
+            padding-top: 5px;
+        }
+    </style>
+</head>
+<link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet"
+      integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+
+<body>
+<div class="mx-auto" style="width: 80%;">
+    <h1>Extracted data per manifest</h1>
+
+    <table class="table table-bordered table-hover">
+        <tr class="table-primary">
+            <th style="width: 15%">Manifest</th>
+            <td><a href="https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_16.json">https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_16.json</a></td>
+        </tr>
+        <tr>
+            <th>Universal Viewer</th>
+            <td><a href="https://universalviewer.io/uv.html?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_16.json">UV</a></td>
+        </tr>
+        <tr>
+            <th>Mirador</th>
+            <td><a href="https://mirador.dlcs-ida.org/mirador?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_16.json">Mirador</a></td>
+        </tr>
+        <tr>
+            <th>Number of pages</th>
+            <td>3</td>
+        </tr>
+                <tr>
+            <th>Link to detailed data</th>
+            <td><a href="https://mattmcgrattan.github.io/LSE/uwt_d_1_1_16_enrichment_new.json">Here</a></td>
+        </tr>
+        <tr>
+            <th>Subjects--Likely</th>
+            <td>
+                
+                Marriage.<br>
+                
+                Equal pay for equal work.<br>
+                
+                Equal pay for equal work--Canada.<br>
+                
+                Equal pay for equal work--Australia.<br>
+                
+            </td>
+        </tr>
+                <tr>
+            <th>Subjects--Possible</th>
+            <td>
+                
+                Marriage.<br>
+                
+                Equal pay for equal work.<br>
+                
+                Equal pay for equal work--Canada.<br>
+                
+                Equal pay for equal work--Australia.<br>
+                
+                Italy--marriage--law.<br>
+                
+                Equal pay for equal work--United States.<br>
+                
+                Equal pay for equal work--Great Britain.<br>
+                
+                Great Britain--women teachers--equal pay.<br>
+                
+                Sweden--marriage--law.<br>
+                
+                Europe--women--equal pay.<br>
+                
+            </td>
+        </tr>
+        <th>Keywords--Document Only</th>
+            <td>
+                
+                woman,&nbsp;
+                
+                man,&nbsp;
+                
+                man woman,&nbsp;
+                
+                pay,&nbsp;
+                
+                equal,&nbsp;
+                
+                work,&nbsp;
+                
+                equal pay,&nbsp;
+                
+                marriage,&nbsp;
+                
+                grade,&nbsp;
+                
+                fact,&nbsp;
+                
+            </td>
+        </tr>
+        <th>Keywords--Relative to Entire Corpus</th>
+            <td>
+                
+                woman,&nbsp;
+                
+                man,&nbsp;
+                
+                man woman,&nbsp;
+                
+                marriage,&nbsp;
+                
+                pay,&nbsp;
+                
+            </td>
+        </tr>
+                <th>Bigrams</th>
+            <td>
+                
+                ['man woman', 12],&nbsp;
+                
+                ['equal pay', 8],&nbsp;
+                
+                ['sick leave', 4],&nbsp;
+                
+                ['standard output', 3],&nbsp;
+                
+                ['efficient man', 3],&nbsp;
+                
+                ['employment woman', 3],&nbsp;
+                
+                ['objection equal', 2],&nbsp;
+                
+                ['pay answer', 2],&nbsp;
+                
+                ['woman employ', 2],&nbsp;
+                
+                ['work man', 2],&nbsp;
+                
+            </td>
+        </tr>
+            <th>Common terms</th>
+            <td>
+                
+                ['woman', 31],&nbsp;
+                
+                ['man', 20],&nbsp;
+                
+                ['equal', 10],&nbsp;
+                
+                ['pay', 10],&nbsp;
+                
+                ['work', 8],&nbsp;
+                
+                ['grade', 6],&nbsp;
+                
+                ['fact', 6],&nbsp;
+                
+                ['marriage', 6],&nbsp;
+                
+                ['government', 5],&nbsp;
+                
+                ['view', 5],&nbsp;
+                
+            </td>
+        </tr>
+        <th>Named entities</th>
+            <td>
+                
+                <ul>
+            
+                <dt>ORG</dt>
+                <dd>
+                    Equal Pay<br>
+                    
+                    Civil Service<br>
+                    
+                    the House of Commons<br>
+                    
+                    Parliament Mansions<br>
+                    
+                    the London Telephone Service<br>
+                    
+                    Treasury<br>
+                    
+                    the Equal Pay Committee<br>
+                    
+                    Government<br>
+                    
+                    the Royal Commission<br>
+                    
+                    The Relative Value of Men' s and Women' s Work In<br>
+                    
+                    the Civil Service<br>
+                    
+                    the first Department<br>
+                    
+                    the Civil Service Equal Pay Committee<br>
+                    
+                    1929-<br>
+                    
+                    MCCorquodale& Co., Ltd.<br>
+                    
+                    Clerks<br>
+                    
+                    National Union of Women Teachors<br>
+                    
+                    Equal Pay for Equal Work in<br>
+                    
+                    Civil Service Equal Pay Committee<br>
+                    
+                    State<br>
+                    
+                    Financial<br>
+                    
+                    Postmistresses<br>
+                    
+                    The Post Office<br>
+                    
+                    District Managers' Offices<br>
+                    
+                    Equal Pay for Equal Work<br>
+                    
+                    Civil Servants<br>
+                    
+                    Counter Clerks<br>
+                    
+                    The Equal Pay Committee<br>
+                    
+                    The Civil Service Equal Pay Committee<br>
+                    
+                    Employment Exchanges<br>
+                    </dd>
+              
+                <dt>DATE</dt>
+                <dd>
+                    their early years<br>
+                    
+                    41<br>
+                    
+                    7th June, 1935<br>
+                    
+                    2nd July, 1935<br>
+                    
+                    31<br>
+                    </dd>
+              
+                <dt>FAC</dt>
+                <dd>
+                    Cromwell Road<br>
+                    </dd>
+              
+                <dt>GPE</dt>
+                <dd>
+                    London<br>
+                    
+                    Telegraphists<br>
+                    
+                    Westminster<br>
+                    
+                    Victoria Street<br>
+                    </dd>
+              
+                <dt>PERSON</dt>
+                <dd>
+                    E. P. Folder Three<br>
+                    
+                    Tomlin<br>
+                    
+                    E. P. Folder One<br>
+                    </dd>
+              
+                    </ul>
+                
+            </td>
+        </tr>
+             </tr>
+            <th>Extractive summaries</th>
+            <td>
+                
+                <p>
+                <em>LSA</em>: <br> The Civil Service Equal Pay Committee considers it necessary to place before Members its observations upon each of the points mentioned by the Financial Secretary.<br>Such generalisations are more easily made than proved, because they depend very largely upon the individual outlook, experience and prejudices of the person who makes them.<br>It is also worth noting that eight signatories to the Report of the Royal Commission of 1912- 15 expressed the view that the lower pay of women affected their sickness rate.<br>Further, if this argument is valid it is curious that women now receive equal pay during their early years of service instead of later on in their career when the risk of retirement for marriage is less.<br>Copies of these Folders and further information upon any of the matters mentioned therein will gladly be furnished on application to The Secretary , Civil Service Equal Pay Committee, Parliament Mansions, Victoria Street, Westminster, S. W. 1.
+                </p>
+                
+                <p>
+                <em>Luhn</em>: <br> )| 1|| National Union of Women Teachors, 41, Cromwell Road, S. W. 7 E. P. Folder Four THE CIVIL SERVICE EQUAL PAY COMMITTEE Some Objections to Equal Pay Answered This Folder, issued by the Civil Service Equal Pay Committee, is the fourth of a series intended to explain and justify the demand of Civil Servants for the immediate application of the principle of Equal Pay for Equal Work to the Civil Service.<br>Again, Government policy has dictated that in Employment Exchanges men clerks deal with men and women clerks with women, but the duties and output of the men and women clerks are the same.<br>On the other hand, when considering the case for Equal Pay, certain facts relating to the employment of women Civil Servants are very relevant and these facts are as follows.<br>The Post Office, for instance, was the first Department to employ women and this accounts for the fact that it began and continued with separate men' s and women' s cadres; but this arrangement is now being terminated in its " common " classes, while for some years Sick Leave The sick leave of men and women as affecting the relative value of their work was specifically considered by the Royal Commission of 1929- 31, but the Chairman, Lord Tomlin, stated that the differ ence in men' s and women' s sick leave was, in his view, " negligible and not of any assistance one way or the other. "<br>Copies of these Folders and further information upon any of the matters mentioned therein will gladly be furnished on application to The Secretary , Civil Service Equal Pay Committee, Parliament Mansions, Victoria Street, Westminster, S. W. 1.
+                </p>
+                
+                <p>
+                <em>Reduction</em>: <br> )| 1|| National Union of Women Teachors, 41, Cromwell Road, S. W. 7 E. P. Folder Four THE CIVIL SERVICE EQUAL PAY COMMITTEE Some Objections to Equal Pay Answered This Folder, issued by the Civil Service Equal Pay Committee, is the fourth of a series intended to explain and justify the demand of Civil Servants for the immediate application of the principle of Equal Pay for Equal Work to the Civil Service.<br>Again, Government policy has dictated that in Employment Exchanges men clerks deal with men and women clerks with women, but the duties and output of the men and women clerks are the same.<br>The Relative Value of Men' s and Women' s Work In the opinion of the Equal Pay Committee, it is unsound to dogmatise upon women Civil Servants as a whole, or to attempt to generalise upon the relative value of their work as compared with that of their men colleagues.<br>In the first place, the employment of women in the Civil Service has always been and still is governed by the principle that " the object should be, not to provide employment for women as such, but to secure for the State the advantages of the services of women whenever those services will best promote its interests, " and if the majority of Civil Service grades are now open to both sexes, this is because experience has shown that such arrangements are in the public interest.<br>The Post Office, for instance, was the first Department to employ women and this accounts for the fact that it began and continued with separate men' s and women' s cadres; but this arrangement is now being terminated in its " common " classes, while for some years Sick Leave The sick leave of men and women as affecting the relative value of their work was specifically considered by the Royal Commission of 1929- 31, but the Chairman, Lord Tomlin, stated that the differ ence in men' s and women' s sick leave was, in his view, " negligible and not of any assistance one way or the other. "
+                </p>
+                
+                <p>
+                <em>KL</em>: <br> Lastly, it should be noted that if men or women are regarded by the Government as relatively less suitable for any type of work, it is the practice to confine the grade to men or to women as the case may be.<br>In other words, women are not admitted to any grade unless it is considered that they will be as efficient as men in that grade and upon the particular duties involved.<br>The first was the greater sick leave amongst women, the second was the fact that for certain kinds of work women were not as efficient as men, and the third was the fact that large numbers of women retired for marriage.<br>The Post Office, for instance, was the first Department to employ women and this accounts for the fact that it began and continued with separate men' s and women' s cadres; but this arrangement is now being terminated in its " common " classes, while for some years Sick Leave The sick leave of men and women as affecting the relative value of their work was specifically considered by the Royal Commission of 1929- 31, but the Chairman, Lord Tomlin, stated that the differ ence in men' s and women' s sick leave was, in his view, " negligible and not of any assistance one way or the other. "<br>Marriage Wastage It is both illogical and unfair to argue that women are less valuable as employees than men because they retire on marriage.
+                </p>
+                
+                <p>
+                <em>TextRank</em>: <br> )| 1|| National Union of Women Teachors, 41, Cromwell Road, S. W. 7 E. P. Folder Four THE CIVIL SERVICE EQUAL PAY COMMITTEE Some Objections to Equal Pay Answered This Folder, issued by the Civil Service Equal Pay Committee, is the fourth of a series intended to explain and justify the demand of Civil Servants for the immediate application of the principle of Equal Pay for Equal Work to the Civil Service.<br>Again, Government policy has dictated that in Employment Exchanges men clerks deal with men and women clerks with women, but the duties and output of the men and women clerks are the same.<br>The Relative Value of Men' s and Women' s Work In the opinion of the Equal Pay Committee, it is unsound to dogmatise upon women Civil Servants as a whole, or to attempt to generalise upon the relative value of their work as compared with that of their men colleagues.<br>In the first place, the employment of women in the Civil Service has always been and still is governed by the principle that " the object should be, not to provide employment for women as such, but to secure for the State the advantages of the services of women whenever those services will best promote its interests, " and if the majority of Civil Service grades are now open to both sexes, this is because experience has shown that such arrangements are in the public interest.<br>The Post Office, for instance, was the first Department to employ women and this accounts for the fact that it began and continued with separate men' s and women' s cadres; but this arrangement is now being terminated in its " common " classes, while for some years Sick Leave The sick leave of men and women as affecting the relative value of their work was specifically considered by the Royal Commission of 1929- 31, but the Chairman, Lord Tomlin, stated that the differ ence in men' s and women' s sick leave was, in his view, " negligible and not of any assistance one way or the other. "
+                </p>
+                
+                <p>
+                <em>LexRank</em>: <br> )| 1|| National Union of Women Teachors, 41, Cromwell Road, S. W. 7 E. P. Folder Four THE CIVIL SERVICE EQUAL PAY COMMITTEE Some Objections to Equal Pay Answered This Folder, issued by the Civil Service Equal Pay Committee, is the fourth of a series intended to explain and justify the demand of Civil Servants for the immediate application of the principle of Equal Pay for Equal Work to the Civil Service.<br>SOME OBJECTIONS TO EQUAL PAY ANSWERED women have been employed on the same work as men with the same standard of output.<br>In other words, women are not admitted to any grade unless it is considered that they will be as efficient as men in that grade and upon the particular duties involved.<br>He then went on to say that one would be nearer the truth if one spoke of " Equal pay for equal value " and that Civil Service experience proved the value of women' s work to be less than that of men' s in the long run.<br>The first was the greater sick leave amongst women, the second was the fact that for certain kinds of work women were not as efficient as men, and the third was the fact that large numbers of women retired for marriage.
+                </p>
+                
+            </td>
+        </tr>
+        <th colspan="2" style="text-align: left">Page level data</th>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

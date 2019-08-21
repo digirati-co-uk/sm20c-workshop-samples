@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Manifest</title>
+    <style>
+        .container {
+            background: #f9f9f9;
+        }
+
+        .flex-column {
+            max-width: 300px;
+        }
+
+        img {
+            margin: 25px;
+        }
+
+        .scale {
+            transform: scaleY(1);
+            padding-top: 5px;
+        }
+    </style>
+</head>
+<link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet"
+      integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+
+<body>
+<div class="mx-auto" style="width: 80%;">
+    <h1>Extracted data per manifest</h1>
+
+    <table class="table table-bordered table-hover">
+        <tr class="table-primary">
+            <th style="width: 15%">Manifest</th>
+            <td><a href="https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_20.json">https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_20.json</a></td>
+        </tr>
+        <tr>
+            <th>Universal Viewer</th>
+            <td><a href="https://universalviewer.io/uv.html?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_20.json">UV</a></td>
+        </tr>
+        <tr>
+            <th>Mirador</th>
+            <td><a href="https://mirador.dlcs-ida.org/mirador?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_20.json">Mirador</a></td>
+        </tr>
+        <tr>
+            <th>Number of pages</th>
+            <td>28</td>
+        </tr>
+                <tr>
+            <th>Link to detailed data</th>
+            <td><a href="https://mattmcgrattan.github.io/LSE/uwt_d_1_1_20_enrichment_new.json">Here</a></td>
+        </tr>
+        <tr>
+            <th>Subjects--Likely</th>
+            <td>
+                
+                Equal pay for equal work.<br>
+                
+                Equal pay for equal work--Canada.<br>
+                
+                Equal pay for equal work--Australia.<br>
+                
+                Textile industry.<br>
+                
+            </td>
+        </tr>
+                <tr>
+            <th>Subjects--Possible</th>
+            <td>
+                
+                Equal pay for equal work.<br>
+                
+                Equal pay for equal work--Canada.<br>
+                
+                Equal pay for equal work--Australia.<br>
+                
+                Textile industry.<br>
+                
+                Chemical industry.<br>
+                
+                Equal pay for equal work--United States.<br>
+                
+                Equal pay for equal work--Great Britain.<br>
+                
+                Great Britain--women teachers--equal pay--history.<br>
+                
+                Europe--women--equal pay.<br>
+                
+                Great Britain--women teachers--equal pay.<br>
+                
+            </td>
+        </tr>
+        <th>Keywords--Document Only</th>
+            <td>
+                
+                woman,&nbsp;
+                
+                man,&nbsp;
+                
+                pay,&nbsp;
+                
+                rate,&nbsp;
+                
+                work,&nbsp;
+                
+                industry,&nbsp;
+                
+                equal,&nbsp;
+                
+                argument,&nbsp;
+                
+                wage,&nbsp;
+                
+                job,&nbsp;
+                
+            </td>
+        </tr>
+        <th>Keywords--Relative to Entire Corpus</th>
+            <td>
+                
+                woman,&nbsp;
+                
+                industry,&nbsp;
+                
+                argument,&nbsp;
+                
+                man,&nbsp;
+                
+                rate,&nbsp;
+                
+            </td>
+        </tr>
+                <th>Bigrams</th>
+            <td>
+                
+                ['rate job', 21],&nbsp;
+                
+                ['equal pay', 20],&nbsp;
+                
+                ['man woman', 19],&nbsp;
+                
+                ['woman work', 13],&nbsp;
+                
+                ['work woman', 10],&nbsp;
+                
+                ['commission evidence', 8],&nbsp;
+                
+                ['woman worker', 7],&nbsp;
+                
+                ['woman rate', 7],&nbsp;
+                
+                ['royal commission', 7],&nbsp;
+                
+                ['men women', 6],&nbsp;
+                
+            </td>
+        </tr>
+            <th>Common terms</th>
+            <td>
+                
+                ['woman', 199],&nbsp;
+                
+                ['man', 90],&nbsp;
+                
+                ['pay', 72],&nbsp;
+                
+                ['rate', 68],&nbsp;
+                
+                ['work', 65],&nbsp;
+                
+                ['industry', 54],&nbsp;
+                
+                ['equal', 45],&nbsp;
+                
+                ['argument', 43],&nbsp;
+                
+                ['job', 39],&nbsp;
+                
+                ['wage', 39],&nbsp;
+                
+            </td>
+        </tr>
+        <th>Named entities</th>
+            <td>
+                
+                <ul>
+            
+                <dt>PERSON</dt>
+                <dd>
+                    Fabian Women' s Group<br>
+                    
+                    Krupt<br>
+                    
+                    Reichspfennigs<br>
+                    
+                    Tomlin<br>
+                    
+                    John Burns G. D. H. Cole<br>
+                    
+                    Hermann Levy<br>
+                    
+                    MARGARET COLE FABIAN SOCIETY<br>
+                    
+                    Charlotte Yonge<br>
+                    
+                    F. W. Bateson<br>
+                    
+                    Cap<br>
+                    
+                    Margaret Cole 104<br>
+                    
+                    William Morris<br>
+                    
+                    Julius West<br>
+                    
+                    Victor Cohen<br>
+                    
+                    Swy<br>
+                    
+                    W. Arthur Lewis<br>
+                    
+                    Fabian Socialism G. D. H. Cole<br>
+                    
+                    Thomas Paine Kingsley Martin<br>
+                    
+                    Tobacco<br>
+                    
+                    Alan Barlow<br>
+                    
+                    Ernest Bevin<br>
+                    
+                    Robert S. W. Pollard<br>
+                    
+                    ESTRANGE MALONE<br>
+                    
+                    Beatrice Webb<br>
+                    
+                    Charles Kingsley C. E. Vulliamy<br>
+                    
+                    M. Abrams<br>
+                    
+                    Helen Donington<br>
+                    
+                    2 Royal<br>
+                    
+                    Richard Carlile G. D. H. Cole<br>
+                    
+                    Margaret Cole'<br>
+                    
+                    Sidney Webb<br>
+                    
+                    Drum<br>
+                    
+                    William Lovitt Barbara Hammond<br>
+                    
+                    Mrs Leonora Eyles'<br>
+                    
+                    Whitaker' s Almanack<br>
+                    
+                    Mrs Gertrude Williams<br>
+                    
+                    L. L'<br>
+                    
+                    Gertrude Williams<br>
+                    
+                    Margaret Cole<br>
+                    
+                    Edith Loeb<br>
+                    
+                    M. Cole<br>
+                    
+                    Brush<br>
+                    
+                    Arturo Barea<br>
+                    
+                    G. D. H. Cole<br>
+                    
+                    Mrs Townsend<br>
+                    
+                    Jeremy Bentham<br>
+                    
+                    Ernest Davies<br>
+                    
+                    H. M. S. O.<br>
+                    
+                    Anne Hill<br>
+                    
+                    Pin<br>
+                    
+                    Mary Macarthur<br>
+                    
+                    interchangeability'--<br>
+                    
+                    Law<br>
+                    
+                    Eric Salmon<br>
+                    
+                    Messrs Courtaulds<br>
+                    
+                    Bass<br>
+                    
+                    Fibre<br>
+                    
+                    W. A. Robson<br>
+                    
+                    M. Leonora Eyles<br>
+                    
+                    Fabian Lectures<br>
+                    
+                    02075-<br>
+                    
+                    Dickens<br>
+                    </dd>
+              
+                <dt>ORG</dt>
+                <dd>
+                    Commons<br>
+                    
+                    Socialist Agriculture Ed<br>
+                    
+                    Guild Women' s Engineering Society Women' s Farm and Garden Association<br>
+                    
+                    POLAND Mines and Industries<br>
+                    
+                    HM Treasury<br>
+                    
+                    VICTOR GOLLANCZ LTD<br>
+                    
+                    the US Department of Labour<br>
+                    
+                    Evidence of H M Treasury<br>
+                    
+                    Cmd<br>
+                    
+                    FABIAN PUBLICATIONS LTD<br>
+                    
+                    91/ 3 Transport<br>
+                    
+                    39/ 4<br>
+                    
+                    the Fabian Society<br>
+                    
+                    the Civil Service<br>
+                    
+                    JOB<br>
+                    
+                    Census<br>
+                    
+                    the British Government<br>
+                    
+                    the Local Government Service<br>
+                    
+                    the Ministry of Labour<br>
+                    
+                    the Fair Wages Clause<br>
+                    
+                    M P'<br>
+                    
+                    the Whitley Councils<br>
+                    
+                    Commission<br>
+                    
+                    THE INTERNATIONAL LABOUR ORGANISATION GERMANY Mines<br>
+                    
+                    the Coal Mines<br>
+                    
+                    England& Wales<br>
+                    
+                    Burnham<br>
+                    
+                    the School Districts of the United States<br>
+                    
+                    Civil Servants<br>
+                    
+                    the Royal Commission on Equal Pay LONDON<br>
+                    
+                    DENMARK Industries<br>
+                    
+                    British Federation of Business and Professional Women<br>
+                    
+                    Metal<br>
+                    
+                    The British Employers' Confederation<br>
+                    
+                    Manchester Guardian<br>
+                    
+                    the Philadelphia Conference<br>
+                    
+                    MOH<br>
+                    
+                    Civil Service<br>
+                    
+                    the House of Commons<br>
+                    
+                    the Burnham Committee<br>
+                    
+                    the British Broadcasting Corporation<br>
+                    
+                    6& Population<br>
+                    
+                    Treasury<br>
+                    
+                    Facts for Socialists, 16th Edition<br>
+                    
+                    the Royal Commission on Equal Pay<br>
+                    
+                    the War Cabinet Committee on Women in Industry<br>
+                    
+                    the Royal Commission<br>
+                    
+                    the Medical Profession<br>
+                    
+                    Rushcliffe<br>
+                    
+                    Unions<br>
+                    
+                    Victor Gollancz Ltd.<br>
+                    
+                    the Society for Bettering the Condition of the Poor<br>
+                    
+                    Universities<br>
+                    
+                    General Printing Works<br>
+                    
+                    Ministry of Labour Gazette<br>
+                    
+                    ANANPONANNON<br>
+                    
+                    The Farming Front<br>
+                    
+                    Next<br>
+                    
+                    Allen& Unwin<br>
+                    
+                    the Ministry of Food<br>
+                    
+                    the Government of the House of Commons<br>
+                    
+                    The Hereford Times Ltd.<br>
+                    
+                    State<br>
+                    
+                    the Trade Unions<br>
+                    
+                    Royal Commission<br>
+                    
+                    the Civil Service the 1 Based<br>
+                    
+                    the British Institute of Public Opinion<br>
+                    
+                    the National Federation of Women Workers<br>
+                    
+                    Chemical<br>
+                    
+                    Committee<br>
+                    
+                    the Inland Revenue<br>
+                    
+                    USA Industries<br>
+                    
+                    | Except<br>
+                    
+                    the Territorial Army<br>
+                    
+                    Civil Defence<br>
+                    
+                    British Federation of University Women Civil Service Clerical Association Council of Women Civil Servants Inland Revenue Staff Federation Institutional Management Association Institution of Professional Civil Servants International Federation of University<br>
+                    
+                    the County Councils' Association<br>
+                    
+                    the Fabian Women' s Group<br>
+                    
+                    Royal Commission Evidence<br>
+                    
+                    John Stuart<br>
+                    
+                    the Trades Union Congress<br>
+                    
+                    Labour Control<br>
+                    
+                    Royal Commission on Equal Pay<br>
+                    
+                    T. Barna 106<br>
+                    
+                    Trade Union<br>
+                    
+                    Government<br>
+                    
+                    Whitley Councils<br>
+                    
+                    Socialist<br>
+                    
+                    BBC<br>
+                    
+                    Button<br>
+                    
+                    the London County Council<br>
+                    
+                    Boys All - Workers<br>
+                    
+                    Association<br>
+                    
+                    Marriage<br>
+                    
+                    County Councils Association<br>
+                    
+                    Control 107 The Care of Homeless<br>
+                    
+                    Not Gainfully Occupied<br>
+                    
+                    the Armed Forces<br>
+                    
+                    National Service Entertainment<br>
+                    
+                    Trades Union Congress<br>
+                    
+                    the Royal Commission on Population<br>
+                    
+                    the Women' s Farm and Garden Association<br>
+                    
+                    Labour Staff Association National Association of Women Civil Servants National Council of Women of Great Britain National Union of Women Teachers National Union of Teachers Post Office Engineering Union Society of Civil Servants Union of Post Office Workers Women'<br>
+                    
+                    the Rate for the Job<br>
+                    
+                    the British Employers' Confederation<br>
+                    
+                    Trade Unions<br>
+                    
+                    Great Boygs<br>
+                    
+                    Social Security Ed<br>
+                    
+                    Woodworking<br>
+                    
+                    The Fabian Women' s Group<br>
+                    
+                    0 Retail<br>
+                    
+                    House<br>
+                    
+                    the Evidence of the Group<br>
+                    
+                    their Civil Services<br>
+                    
+                    6 Transport<br>
+                    
+                    the Air Transport Auxiliary<br>
+                    
+                    the Philadelphia Congress<br>
+                    
+                    ILO Geneva<br>
+                    
+                    the Federal Civil Service<br>
+                    
+                    the Board of Trade<br>
+                    
+                    Boys ALL<br>
+                    
+                    the National Arbitration Tribunal<br>
+                    
+                    Allen& Unwin) Retail Trade Associations<br>
+                    
+                    the Amalgamated Engineering Union<br>
+                    
+                    The National Government<br>
+                    
+                    62/ 4 35/<br>
+                    
+                    the B MA<br>
+                    
+                    National Industrial Conference Board<br>
+                    
+                    the Labour Movement<br>
+                    
+                    Amalgamated Society<br>
+                    
+                    National Association of Schoolmasters<br>
+                    
+                    the Service Unions<br>
+                    
+                    37/ 10 Leather<br>
+                    
+                    HM Government<br>
+                    
+                    the Women' s Trade Union League<br>
+                    
+                    the General Post Office<br>
+                    
+                    the National Association of Schoolmasters<br>
+                    
+                    Women and Work<br>
+                    
+                    Men Youths Women Girls Industry Group<br>
+                    
+                    LCC<br>
+                    
+                    krone:- Men Women 1<br>
+                    
+                    Full Employment<br>
+                    
+                    8 Chemical<br>
+                    
+                    the National Government<br>
+                    
+                    Parliament<br>
+                    
+                    Society<br>
+                    
+                    the Philadelphia Conference of the I LO<br>
+                    
+                    Group<br>
+                    
+                    Milk<br>
+                    </dd>
+              
+                <dt>GPE</dt>
+                <dd>
+                    Estonia<br>
+                    
+                    SWITZERLAND<br>
+                    
+                    USA<br>
+                    
+                    Netherlands<br>
+                    
+                    Luxemburg<br>
+                    
+                    the United Kingdom<br>
+                    
+                    Bulgaria<br>
+                    
+                    Czechoslovakia<br>
+                    
+                    Lithuania<br>
+                    
+                    China<br>
+                    
+                    Poland<br>
+                    
+                    Britain<br>
+                    
+                    Orkney<br>
+                    
+                    London<br>
+                    
+                    Latvia<br>
+                    
+                    Rumania<br>
+                    
+                    Canada<br>
+                    
+                    Elementary Schools<br>
+                    
+                    Egypt<br>
+                    
+                    Austria<br>
+                    
+                    Wales<br>
+                    
+                    Sweden<br>
+                    
+                    Great Britain<br>
+                    
+                    Sudan<br>
+                    
+                    Switzerland<br>
+                    
+                    States<br>
+                    
+                    N. Scotland<br>
+                    
+                    Finland<br>
+                    
+                    Belgium<br>
+                    
+                    the United States<br>
+                    
+                    Amsterdam<br>
+                    
+                    USSR<br>
+                    
+                    France<br>
+                    
+                    Chile<br>
+                    
+                    Argentina<br>
+                    
+                    the Weimar Republic<br>
+                    
+                    Hansard<br>
+                    
+                    Spain<br>
+                    
+                    Italy<br>
+                    
+                    Lancashire<br>
+                    
+                    the States of the Union<br>
+                    
+                    Greece<br>
+                    
+                    Secondary Schools<br>
+                    
+                    Denmark<br>
+                    
+                    Hereford<br>
+                    
+                    S. W. T.<br>
+                    
+                    HOLLAND<br>
+                    
+                    New Zealand<br>
+                    
+                    South Midlands<br>
+                    
+                    Corn wall<br>
+                    
+                    England<br>
+                    
+                    Scotland<br>
+                    
+                    Middlesex<br>
+                    
+                    Mexico<br>
+                    
+                    Hungary<br>
+                    
+                    Norway<br>
+                    
+                    Germany<br>
+                    
+                    Japan<br>
+                    
+                    Peru<br>
+                    </dd>
+              
+                <dt>FAC</dt>
+                <dd>
+                    Francis Place St John G. Ervine<br>
+                    
+                    Henrietta Street<br>
+                    
+                    Hourly Time<br>
+                    
+                    the Little House<br>
+                    </dd>
+              
+                <dt>DATE</dt>
+                <dd>
+                    8 17/ 5<br>
+                    
+                    May 18, 1945<br>
+                    
+                    the week ended 21st July, 1945<br>
+                    
+                    1920<br>
+                    
+                    21<br>
+                    
+                    Weekly<br>
+                    
+                    these more enlightened days<br>
+                    
+                    February, 1939<br>
+                    
+                    March, 1939<br>
+                    
+                    early nineteenth century<br>
+                    
+                    80/<br>
+                    
+                    years<br>
+                    
+                    the last pay- week of October, 1938 Iron<br>
+                    
+                    1/ 1 70,<br>
+                    
+                    1929<br>
+                    
+                    July, 1945<br>
+                    
+                    1936<br>
+                    
+                    4<br>
+                    
+                    a little more than half<br>
+                    
+                    1939<br>
+                    
+                    March 16, 1945, 0718<br>
+                    
+                    between the ages of 18 and 59<br>
+                    
+                    July 27, 1945, 02931<br>
+                    
+                    July 20, 1945<br>
+                    
+                    tender years<br>
+                    
+                    February 16, 1945<br>
+                    
+                    6564<br>
+                    
+                    the year<br>
+                    
+                    nearly fifty years<br>
+                    
+                    1941<br>
+                    
+                    half a century<br>
+                    
+                    July 20, 1945, 02780<br>
+                    
+                    today<br>
+                    
+                    the years<br>
+                    
+                    1938<br>
+                    
+                    73<br>
+                    
+                    the last ten years<br>
+                    
+                    under 21<br>
+                    
+                    weekly<br>
+                    
+                    March 16, 1945, 9702<br>
+                    
+                    9 19/ 8<br>
+                    
+                    little more than a quarter<br>
+                    
+                    December, 1942<br>
+                    
+                    1945<br>
+                    
+                    February, 1946<br>
+                    
+                    0 47<br>
+                    
+                    April 20, 1945<br>
+                    
+                    18 years<br>
+                    
+                    a few years<br>
+                    
+                    21 years<br>
+                    
+                    April 20, 1945, 91357<br>
+                    
+                    1944<br>
+                    
+                    1918<br>
+                    
+                    March, 1946<br>
+                    
+                    the end of January, 1946<br>
+                    
+                    1919<br>
+                    
+                    the early years of the last century<br>
+                    
+                    about four days<br>
+                    
+                    Election 1945<br>
+                    
+                    3 per week<br>
+                    
+                    Feb., 1939<br>
+                    
+                    Feb., 1944<br>
+                    
+                    25<br>
+                    
+                    10 2009- 10<br>
+                    
+                    1917<br>
+                    
+                    1942<br>
+                    
+                    1st February, 1939<br>
+                    
+                    6<br>
+                    
+                    1/ 18<br>
+                    
+                    Today<br>
+                    
+                    the past century<br>
+                    
+                    October, 1944<br>
+                    
+                    1946<br>
+                    
+                    1937<br>
+                    
+                    1932<br>
+                    
+                    1931<br>
+                    
+                    6 39/ 4<br>
+                    
+                    70<br>
+                    
+                    March 16, 1945, 9837<br>
+                    
+                    8939<br>
+                    
+                    November 20th, 1944<br>
+                    
+                    many years<br>
+                    
+                    October, 1938<br>
+                    
+                    91<br>
+                    
+                    October 5, 1944<br>
+                    
+                    37 1<br>
+                    
+                    1871<br>
+                    </dd>
+              
+                <dt>LOC</dt>
+                <dd>
+                    Downing Street<br>
+                    
+                    Shetland Islands<br>
+                    
+                    Latin America<br>
+                    </dd>
+              
+                    </ul>
+                
+            </td>
+        </tr>
+             </tr>
+            <th>Extractive summaries</th>
+            <td>
+                
+                <p>
+                <em>LSA</em>: <br> If the word' identical ' be stressed as heavily as is desired by employers' representatives endeavouring to establish a case under attack- and speaking for constituents who would generally be only too ready to incur the expense of an additional male charge- hand or machine- tender if that would enable the wages of a whole group of female operators to be kept down to a substantially lower level- this statement may be narrowly and literally correct.<br>( 6) It is impossible, owing to the curious classification of the Census which we mentioned in our opening paragraphs, to give any figure of the number of women who are actively engaged in home- making; those who employ the largest obtainable staff of servants and those who spend their lives in hotels are lumped, along with the unhelped mother of half- a- dozen children, under a single heading.<br>A list of these given in The Law and Women' s Work( ILO Geneva, 1939) includes Argentina, Austria, Belgium, Canada, Czechoslovakia, Denmark, Egypt, Finland, France, Greece, Hungary, Italy, Japan, Latvia, Luxemburg, Netherlands, New Zealand, Norway, Poland, Rumania, Sweden, Switzerland, Turkey- and Germany during the Weimar Republic.<br>We regard it as highly significant that whereas on the last occasion when the British Government set up an enquiry into the wages of men and women( in 1918) only one member of the Committee( Mrs. Sidney Webb) advocated equal pay, since that date public opinion has changed so much that all the three main political parties- albeit with some hesitation by the Conservatives have declared themselves in favour of it.<br>Three times during the last ten years twice, in 1920 and 1936, in debates on Civil Service salaries, and again, in 1944 on the resolution with regard to teachers has the House of Commons in defiance of the Government voted for equal pay; and in December, 1942, a poll conducted by the British Institute of Public Opinion( which, it may be recalled, alone prophesied with a very slight margin of error the results of the 1945 election) showed a substantial majority in its favour.
+                </p>
+                
+                <p>
+                <em>Luhn</em>: <br> British Federation of University Women Civil Service Clerical Association Council of Women Civil Servants Inland Revenue Staff Federation Institutional Management Association Institution of Professional Civil Servants International Federation of University Women L. C. C. Staff Association Ministry of Labour Staff Association National Association of Women Civil Servants National Council of Women of Great Britain National Union of Women Teachers National Union of Teachers Post Office Engineering Union Society of Civil Servants Union of Post Office Workers Women' s Co- operative Guild Women' s Engineering Society Women' s Farm and Garden Association but we have also received advice and encouragement from others, and from individuals too numerous to mention.<br>Men Youths Women Girls Industry Group and Boys ALL 27/ 8 ( 21 years( under( 18 years( under Workers and over) 21 years) and over) 18 years) Average earnings in the last pay- week of October, 1938 Iron, stone, etc., mining and quarrying 60/- 30/ 2 56/ 8 Treatment of non- metalliferous mine and quarry products.... 66/ 5 31/ 1 29/ 8 17/ 11 61/ Brick, pottery and glass.. 63/ 2 27/ 10 14/ 10 47/ 8 Chemical, paint, oil, etc.<br>Dressmaking and women' s light clothing ( Scotland) retail branch 1/ 1 7d, 7 d1 46 Other branches 1/ 1 46 Fur....... 1/ 1 Fustian cutting.. 0/ 10 General waste materials reclamation 0/ 111 Hair, Bass and Fibre.. 0/ 111 Hat, cap and millinery( England& Wales) ( Scotland)( wholesale cloth Hat and Cap branch)... Hollow- ware .. 1/ 05 Keg and Drum.. 1/ 04 Laundry( Great Britain excluding Corn wall and N. Scotland).. 1/ 22 Linen and cotton handkerchief and house hold goods and linen piece goods 1/ 0 Made- up textiles.. 0/ 11) 63 Milk distributive( England and Wales).. 0/ 11], 1/ 18, 1/ 231 7, 73.<br>Jeremy Bentham Victor Cohen 13 Richard Carlile G. D. H. Cole... 14 John Burns G. D. H. Cole : : FABIAN SPECIALS 7 The British Working- Class Movement: An Outline Study- Guide G. D. H. Cole... : : : : : BOOKS Fabian Essays( 1931 Edition)... Education for Democracy Margaret Cole ( Allen& Unwin) Retail Trade Associations Hermann Levy ...( Routledge) Downing Street and the Colonies... ( Allen& Unwin) Social Security Ed.<br>Dr. W. A. Robson ( Allen& Unwin) Plan for Britain: Fabian Lectures, 1942 ...( Routledge) Fabian Socialism G. D. H. Cole ( Allen& Unwin) Fabian Colonial Essays.... ( Allen& Unwin) Co- operation in the Colonies... ( Allen& Unwin) 7/ 6& Population and the People ( Allen& Unwin) What Labour Could Do ...( Routledge) Condition of the British People M. Abrams ( Gollancz) Towards a Socialist Agriculture Ed.
+                </p>
+                
+                <p>
+                <em>Reduction</em>: <br> British Federation of University Women Civil Service Clerical Association Council of Women Civil Servants Inland Revenue Staff Federation Institutional Management Association Institution of Professional Civil Servants International Federation of University Women L. C. C. Staff Association Ministry of Labour Staff Association National Association of Women Civil Servants National Council of Women of Great Britain National Union of Women Teachers National Union of Teachers Post Office Engineering Union Society of Civil Servants Union of Post Office Workers Women' s Co- operative Guild Women' s Engineering Society Women' s Farm and Garden Association but we have also received advice and encouragement from others, and from individuals too numerous to mention.<br>In summary, 2 women in a few fields such as journalism and the stage are paid equally with men, whatever particular work they are doing; women in the majority of clerical and professional occupations earn from two- thirds to five- sixths as much as men; for women in Civil Defence and the Armed Forces the rate is two- thirds of the men' s; over the field of what is generally known as industry a woman, with certain exceptions, can expect to earn half, or a little more than half, of what a man in the same industry can expect to take home; while women engaged full- time in home keeping for their husbands and children get no wage at all, but have their services repaid in kind, with or without an unspecified quantity of pocket money.<br>jobs, who, like the bus- conductors, are receiving, as far as an outsider can judge, exactly the same rates as the men; there are others, doing what appears to be the same job in the same trade, but in a different factory, who are receiving much less; there are women who are working on piece- work on processes which, according to the Trade Unions, are identical with those performed by men, but who cannot possibly earn as much because the piece- work rate is fixed on the basis of a women' s time- rate', which is well below that of the man.<br>The men -- and also, often, the men' s wives quite correctly looked upon the mass of women, underpaid, casually engaged and equally casually dismissed, as potentially blackleg labour; it was a long time before the more farsighted among their leaders realised that organisation of the women was a more hopeful expedient than attacking them, and began to co- operate with the Women' s Trade Union League and the National Federation of Women Workers in ways of which the best- known, if possibly not the most typical, 1 Nevertheless, the British engineering employers contend that to grant equal pay in the very few cases in which, according to them, women are doing equal work, would have a catastrophic effect in the field of light engineering, and would raise the price of the product by 50%.<br>Five of the States of the Union, moreover, have passed several equal pay laws; 75% of the School Districts of the United States pay equal salaries to men and women doing the same work; and a draft suggestion sent out by the US Department of Labour to the separate States contains the words, ' No employer shall discriminate in any way in the payment of wages as between the sexes, or shall pay any female in his employ salary or wage rates less than the wages paid to male employees doing work of a comparable character or work of comparable operations.'
+                </p>
+                
+                <p>
+                <em>KL</em>: <br> It describes the different obstacles and prejudices against which professional women on the one hand and industrial women on the other have fought during the past century with very different results; owing, partly, no doubt, to the relative economic strength of the middle- class woman and the economic weakness of the industrial woman worker, and partly to the extraordinarily varied, confused and often crazy wage- structure into which the working woman was driven to enter.<br>In summary, 2 women in a few fields such as journalism and the stage are paid equally with men, whatever particular work they are doing; women in the majority of clerical and professional occupations earn from two- thirds to five- sixths as much as men; for women in Civil Defence and the Armed Forces the rate is two- thirds of the men' s; over the field of what is generally known as industry a woman, with certain exceptions, can expect to earn half, or a little more than half, of what a man in the same industry can expect to take home; while women engaged full- time in home keeping for their husbands and children get no wage at all, but have their services repaid in kind, with or without an unspecified quantity of pocket money.<br>It should be observed that this table refers to earnings, which include overtime and piecework, and not to time rates proper; Table II, which gives for February, 1939, the rates fixed by statute in the principal occupations covered by the Trade Boards Acts, shows no less of a gap between men' s rates and women' s. During the war, as during the war of 1914 18, the gap was narrowed to some extent, partly owing to the number of substituted ' women who were actually paid male rates.<br>jobs, who, like the bus- conductors, are receiving, as far as an outsider can judge, exactly the same rates as the men; there are others, doing what appears to be the same job in the same trade, but in a different factory, who are receiving much less; there are women who are working on piece- work on processes which, according to the Trade Unions, are identical with those performed by men, but who cannot possibly earn as much because the piece- work rate is fixed on the basis of a women' s time- rate', which is well below that of the man.<br>One school of thought says that the introduction of the Rate for the Job will drive women out of industry altogether, the other that it will draw a disproportionate number of women into factory work.
+                </p>
+                
+                <p>
+                <em>TextRank</em>: <br> British Federation of University Women Civil Service Clerical Association Council of Women Civil Servants Inland Revenue Staff Federation Institutional Management Association Institution of Professional Civil Servants International Federation of University Women L. C. C. Staff Association Ministry of Labour Staff Association National Association of Women Civil Servants National Council of Women of Great Britain National Union of Women Teachers National Union of Teachers Post Office Engineering Union Society of Civil Servants Union of Post Office Workers Women' s Co- operative Guild Women' s Engineering Society Women' s Farm and Garden Association but we have also received advice and encouragement from others, and from individuals too numerous to mention.<br>In summary, 2 women in a few fields such as journalism and the stage are paid equally with men, whatever particular work they are doing; women in the majority of clerical and professional occupations earn from two- thirds to five- sixths as much as men; for women in Civil Defence and the Armed Forces the rate is two- thirds of the men' s; over the field of what is generally known as industry a woman, with certain exceptions, can expect to earn half, or a little more than half, of what a man in the same industry can expect to take home; while women engaged full- time in home keeping for their husbands and children get no wage at all, but have their services repaid in kind, with or without an unspecified quantity of pocket money.<br>jobs, who, like the bus- conductors, are receiving, as far as an outsider can judge, exactly the same rates as the men; there are others, doing what appears to be the same job in the same trade, but in a different factory, who are receiving much less; there are women who are working on piece- work on processes which, according to the Trade Unions, are identical with those performed by men, but who cannot possibly earn as much because the piece- work rate is fixed on the basis of a women' s time- rate', which is well below that of the man.<br>The men -- and also, often, the men' s wives quite correctly looked upon the mass of women, underpaid, casually engaged and equally casually dismissed, as potentially blackleg labour; it was a long time before the more farsighted among their leaders realised that organisation of the women was a more hopeful expedient than attacking them, and began to co- operate with the Women' s Trade Union League and the National Federation of Women Workers in ways of which the best- known, if possibly not the most typical, 1 Nevertheless, the British engineering employers contend that to grant equal pay in the very few cases in which, according to them, women are doing equal work, would have a catastrophic effect in the field of light engineering, and would raise the price of the product by 50%.<br>Five of the States of the Union, moreover, have passed several equal pay laws; 75% of the School Districts of the United States pay equal salaries to men and women doing the same work; and a draft suggestion sent out by the US Department of Labour to the separate States contains the words, ' No employer shall discriminate in any way in the payment of wages as between the sexes, or shall pay any female in his employ salary or wage rates less than the wages paid to male employees doing work of a comparable character or work of comparable operations.'
+                </p>
+                
+                <p>
+                <em>LexRank</em>: <br> That principle, in the view of many organisations which have given evidence before the Royal Commission, including the Fabian Women' s Group, should be the Rate for the Job, whoever, man, woman, boy or girl, is doing the job.<br>There are cases of women working at men' s?<br>THE RATE FOR THE JOB 11 .<br>Further, many countries in which equal pay is not the general rule nevertheless give equal pay in their Civil Services.<br>135, and The Wages of Men and Women Should They Be Equal?
+                </p>
+                
+            </td>
+        </tr>
+        <th colspan="2" style="text-align: left">Page level data</th>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

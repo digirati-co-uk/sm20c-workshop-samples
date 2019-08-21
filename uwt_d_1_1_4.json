@@ -1,0 +1,158 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://mattmcgrattan.github.io/LSE/uwt_d_1_1_4.json",
+    "@type": "sc:Manifest",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "Created by DLCS"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "http://mattmcgrattan.github.io/LSE/uwt_d_1_1_4/sequence/0",
+            "@type": "sc:Sequence",
+            "label": "Sequence 0",
+            "canvases": [
+                {
+                    "@id": "http://mattmcgrattan.github.io/LSE/uwt_d_1_1_4/canvas/0",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/4/9/983a770d-4ab7-4012-a987-d3ef3feed774/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/4/9/983a770d-4ab7-4012-a987-d3ef3feed774",
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "width": 677,
+                            "height": 1024,
+                            "sizes": [
+                                {
+                                    "width": 677,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 265,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 132,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 66,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    },
+                    "height": 3247,
+                    "width": 2148,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/4/9/983a770d-4ab7-4012-a987-d3ef3feed774/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/4/9/983a770d-4ab7-4012-a987-d3ef3feed774/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3247,
+                                "width": 2148,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/4/9/983a770d-4ab7-4012-a987-d3ef3feed774",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "height": 3247,
+                                    "width": 2148,
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            },
+                            "on": "http://mattmcgrattan.github.io/LSE/uwt_d_1_1_4/canvas/0"
+                        }
+                    ]
+                },
+                {
+                    "@id": "http://mattmcgrattan.github.io/LSE/uwt_d_1_1_4/canvas/1",
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/4/9/9cb2560c-631f-4b58-8d7f-0ae698ecf4e0/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/4/9/9cb2560c-631f-4b58-8d7f-0ae698ecf4e0",
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "width": 677,
+                            "height": 1024,
+                            "sizes": [
+                                {
+                                    "width": 677,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 265,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 132,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 66,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    },
+                    "height": 3247,
+                    "width": 2148,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/4/9/9cb2560c-631f-4b58-8d7f-0ae698ecf4e0/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/4/9/9cb2560c-631f-4b58-8d7f-0ae698ecf4e0/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3247,
+                                "width": 2148,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/4/9/9cb2560c-631f-4b58-8d7f-0ae698ecf4e0",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "height": 3247,
+                                    "width": 2148,
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            },
+                            "on": "http://mattmcgrattan.github.io/LSE/uwt_d_1_1_4/canvas/1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

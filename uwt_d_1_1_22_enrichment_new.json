@@ -1,0 +1,4567 @@
+{
+    "id": "https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_22.json",
+    "mirador": "https://mirador.dlcs-ida.org/mirador?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_22.json",
+    "uv": "https://universalviewer.io/uv.html?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_22.json",
+    "search_service": "https://mathmos.glam-dev.org/search/aHR0cDovL21hdHRtY2dyYXR0YW4uZ2l0aHViLmlvL0xTRS91d3RfZF8xXzFfMjIuanNvbg==/search/oa",
+    "search_autocomplete": "https://mathmos.glam-dev.org/search/aHR0cDovL21hdHRtY2dyYXR0YW4uZ2l0aHViLmlvL0xTRS91d3RfZF8xXzFfMjIuanNvbg==/autocomplete/oa",
+    "number_of_pages": 1,
+    "canvas_summaries": [
+        {
+            "page_position": 0,
+            "Transcription_annotations": "https://transcriptions.glam-dev.org/annotations/line/?width=2189&canvas=http%3A%2F%2Fmattmcgrattan.github.io%2FLSE%2Fuwt_d_1_1_22%2Fcanvas%2F0&image=https%3A%2F%2Fdlc.services%2Fiiif-img%2F4%2F9%2Fd2ab1bd3-504b-4eff-9ab9-929105cc9ce4&height=3321",
+            "Named_Entity_Extraction_Annotations": "https://annotations.glam-dev.org/annotationlist/b73ab202e9e2cfee2d2ee14456e527f3/",
+            "ocr_uri": "https://starsky.glam-dev.org/plaintext/?imageURI=https%3A//dlc.services/iiif-img/4/9/d2ab1bd3-504b-4eff-9ab9-929105cc9ce4",
+            "ocr_lines_uri": "https://starsky.glam-dev.org/plaintextlines/?imageURI=https%3A//dlc.services/iiif-img/4/9/d2ab1bd3-504b-4eff-9ab9-929105cc9ce4&width=2189&height=3321",
+            "ocr_text": "outl | 1/ 22. WOMEN MUST HAVE EQUAL PAY BECAUSE .... The Government is pledged to establish Equal Pay. On 1. June 11th, 1947, the Chancellor of the Exchequer, Mr. Hugh Dalton said: \" There should be no difference of payment for the same work in respect of sex. \" Both the Trades Union Congress Conference and Labour . Party Conference have passed resolutions calling for:\" equal pay without delay.' 2 Equal Pay is not a mere change of wage rates, it is a . fundamental principle of human equality, and claimed by the Labour Party as part of their foundation for a New World. A It is not honest to postpone or evade action by introducing other matters; while wages are paid for work done they should be paid to the one who does the work, whether male or female. While the danger of inflation is grave and must be guarded Jo against it is not fair to use it as an argument against women having more money while a large percentage of workers, mainly men, have been receiving wage advances, including miners, agricultural workers, transport workers, catering employees, shop assistants, clerical and printing workers, etc. More than a dozen advances \u2014 some to Civil Servants \u2014 have been granted since equal pay was refused. 6 The cost of Equal Pay in the Civil Service and other employ ments for which the Government is directly or indirectly responsible could not possibly make the difference between national safety and bankruptcy. The Government estimate for Equal Pay for those directly or indirectly in their service is roughly 24 million pounds. We spent \u00a316 million per day during part of the last war. TO AVOID INFLATION and solve the national financial crisis every section of the community must contribute to a common effort. It cannot be solved by delaying fair payment to women for equal work. Why should women be the only workers to accept a sacrifice? WAS PROMISED MUST BE GIVEN \u2022 Equal Pay Demonstration Committee, Hon. Secretary: Mrs. Popplewell, \" Kilspindie, \" Wonersh Park, Nr. Guildford, Surrey. Printed by C. A. Brock& Co. Ltd.,( T. U.), 79 Southern Row, London, W. 10.",
+            "clean_text": "outl | 1/ 22. WOMEN MUST HAVE EQUAL PAY BECAUSE .... The Government is pledged to establish Equal Pay. On 1. June 11th, 1947, the Chancellor of the Exchequer, Mr. Hugh Dalton said: \" There should be no difference of payment for the same work in respect of sex. \" Both the Trades Union Congress Conference and Labour . Party Conference have passed resolutions calling for:\" equal pay without delay.' 2 Equal Pay is not a mere change of wage rates, it is a . fundamental principle of human equality, and claimed by the Labour Party as part of their foundation for a New World. A It is not honest to postpone or evade action by introducing other matters; while wages are paid for work done they should be paid to the one who does the work, whether male or female. While the danger of inflation is grave and must be guarded Jo against it is not fair to use it as an argument against women having more money while a large percentage of workers, mainly men, have been receiving wage advances, including miners, agricultural workers, transport workers, catering employees, shop assistants, clerical and printing workers, etc. More than a dozen advances some to Civil Servants have been granted since equal pay was refused. 6 The cost of Equal Pay in the Civil Service and other employ ments for which the Government is directly or indirectly responsible could not possibly make the difference between national safety and bankruptcy. The Government estimate for Equal Pay for those directly or indirectly in their service is roughly 24 million pounds. We spent 16 million per day during part of the last war. TO AVOID INFLATION and solve the national financial crisis every section of the community must contribute to a common effort. It cannot be solved by delaying fair payment to women for equal work. Why should women be the only workers to accept a sacrifice? WAS PROMISED MUST BE GIVEN Equal Pay Demonstration Committee, Hon. Secretary: Mrs. Popplewell, \" Kilspindie, \" Wonersh Park, Nr. Guildford, Surrey. Printed by C. A. Brock& Co. Ltd.,( T. U.), 79 Southern Row, London, W. 10.",
+            "sentences": [
+                {
+                    "text": "outl | 1/ 22.",
+                    "ascii": "outl | 1/ 22.",
+                    "tokens": [
+                        {
+                            "text": "outl",
+                            "lemma": "outl",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "| 1/ 22",
+                            "lemma": "|",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "ROOT",
+                            "shape": "| d/ dd",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "WOMEN MUST HAVE EQUAL PAY BECAUSE .... The Government is pledged to establish Equal Pay.",
+                    "ascii": "WOMEN MUST HAVE EQUAL PAY BECAUSE .... The Government is pledged to establish Equal Pay.",
+                    "tokens": [
+                        {
+                            "text": "WOMEN",
+                            "lemma": "woman",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "MUST",
+                            "lemma": "MUST",
+                            "pos": "VERB",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "HAVE",
+                            "lemma": "have",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ROOT",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "EQUAL",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "PAY",
+                            "lemma": "pay",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "XXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "BECAUSE",
+                            "lemma": "because",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "advmod",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "....",
+                            "lemma": "....",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": "....",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "The",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Government",
+                            "lemma": "Government",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "nsubjpass",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "auxpass",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "pledged",
+                            "lemma": "pledge",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "PART",
+                            "tag": "TO",
+                            "dep": "aux",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "establish",
+                            "lemma": "establish",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "xcomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Equal Pay",
+                            "lemma": "Equal",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "dobj",
+                            "shape": "Xxxxx Xxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "On 1.",
+                    "ascii": "On 1.",
+                    "tokens": [
+                        {
+                            "text": "On",
+                            "lemma": "on",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "ROOT",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "1",
+                            "lemma": "1",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "pobj",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "June 11th, 1947, the Chancellor of the Exchequer, Mr. Hugh Dalton said: \" There should be no difference of payment for the same work in respect of sex. \"",
+                    "ascii": "June 11th, 1947, the Chancellor of the Exchequer, Mr. Hugh Dalton said: \" There should be no difference of payment for the same work in respect of sex. \"",
+                    "tokens": [
+                        {
+                            "text": "June 11th, 1947",
+                            "lemma": "June",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "npadvmod",
+                            "shape": "Xxxx ddxx, dddd",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Chancellor",
+                            "lemma": "Chancellor",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "dep",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Exchequer",
+                            "lemma": "Exchequer",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "pobj",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Mr.",
+                            "lemma": "Mr.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "Xx.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Hugh Dalton",
+                            "lemma": "Hugh",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "nsubj",
+                            "shape": "Xxxx Xxxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "said",
+                            "lemma": "say",
+                            "pos": "VERB",
+                            "tag": "VBD",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ":",
+                            "lemma": ":",
+                            "pos": "PUNCT",
+                            "tag": ":",
+                            "dep": "punct",
+                            "shape": ":",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "\"",
+                            "lemma": "\"",
+                            "pos": "PUNCT",
+                            "tag": "``",
+                            "dep": "punct",
+                            "shape": "\"",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "There",
+                            "lemma": "there",
+                            "pos": "ADV",
+                            "tag": "EX",
+                            "dep": "expl",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "should",
+                            "lemma": "should",
+                            "pos": "VERB",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "be",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ccomp",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "no",
+                            "lemma": "no",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "difference",
+                            "lemma": "difference",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "attr",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "payment",
+                            "lemma": "payment",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "same",
+                            "lemma": "same",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "work",
+                            "lemma": "work",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "in",
+                            "lemma": "in",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "respect",
+                            "lemma": "respect",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "sex",
+                            "lemma": "sex",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "\"",
+                            "lemma": "\"",
+                            "pos": "PUNCT",
+                            "tag": "''",
+                            "dep": "punct",
+                            "shape": "\"",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Both the Trades Union Congress Conference and Labour .",
+                    "ascii": "Both the Trades Union Congress Conference and Labour .",
+                    "tokens": [
+                        {
+                            "text": "Both",
+                            "lemma": "both",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "preconj",
+                            "shape": "Xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the Trades Union Congress Conference",
+                            "lemma": "the",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "ROOT",
+                            "shape": "xxx Xxxxx Xxxxx Xxxxx Xxxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Labour",
+                            "lemma": "Labour",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "subtok",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "conj",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Party Conference have passed resolutions calling for:\" equal pay without delay.'",
+                    "ascii": "Party Conference have passed resolutions calling for:\" equal pay without delay.'",
+                    "tokens": [
+                        {
+                            "text": "Party Conference",
+                            "lemma": "Party",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "nsubj",
+                            "shape": "Xxxxx Xxxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "have",
+                            "lemma": "have",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "passed",
+                            "lemma": "pass",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "resolutions",
+                            "lemma": "resolution",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "calling",
+                            "lemma": "call",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "acl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": ":",
+                            "lemma": ":",
+                            "pos": "PUNCT",
+                            "tag": ":",
+                            "dep": "punct",
+                            "shape": ":",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "\"",
+                            "lemma": "\"",
+                            "pos": "PUNCT",
+                            "tag": "``",
+                            "dep": "punct",
+                            "shape": "\"",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "equal",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "pay",
+                            "lemma": "pay",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "without",
+                            "lemma": "without",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "delay",
+                            "lemma": "delay",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "'",
+                            "lemma": "'",
+                            "pos": "PUNCT",
+                            "tag": "''",
+                            "dep": "punct",
+                            "shape": "'",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "2 Equal Pay is not a mere change of wage rates, it is a .",
+                    "ascii": "2 Equal Pay is not a mere change of wage rates, it is a .",
+                    "tokens": [
+                        {
+                            "text": "2",
+                            "lemma": "2",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "nummod",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Equal",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "compound",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Pay",
+                            "lemma": "pay",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ccomp",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "not",
+                            "lemma": "not",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "neg",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "a",
+                            "lemma": "a",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "x",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "mere",
+                            "lemma": "mere",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "change",
+                            "lemma": "change",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "attr",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "wage",
+                            "lemma": "wage",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "rates",
+                            "lemma": "rate",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "it",
+                            "lemma": "-PRON-",
+                            "pos": "PRON",
+                            "tag": "PRP",
+                            "dep": "nsubj",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ROOT",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "a",
+                            "lemma": "a",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "attr",
+                            "shape": "x",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "fundamental principle of human equality, and claimed by the Labour Party as part of their foundation for a New World.",
+                    "ascii": "fundamental principle of human equality, and claimed by the Labour Party as part of their foundation for a New World.",
+                    "tokens": [
+                        {
+                            "text": "fundamental",
+                            "lemma": "fundamental",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "principle",
+                            "lemma": "principle",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "human",
+                            "lemma": "human",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "equality",
+                            "lemma": "equality",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "claimed",
+                            "lemma": "claim",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "by",
+                            "lemma": "by",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "agent",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the Labour Party",
+                            "lemma": "the",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "pobj",
+                            "shape": "xxx Xxxxx Xxxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "as",
+                            "lemma": "as",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "part",
+                            "lemma": "part",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "their",
+                            "lemma": "-PRON-",
+                            "pos": "DET",
+                            "tag": "PRP$",
+                            "dep": "poss",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "foundation",
+                            "lemma": "foundation",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "a",
+                            "lemma": "a",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "x",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "New",
+                            "lemma": "New",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "World",
+                            "lemma": "World",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "pobj",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "A It is not honest to postpone or evade action by introducing other matters; while wages are paid for work done they should be paid to the one who does the work, whether male or female.",
+                    "ascii": "A It is not honest to postpone or evade action by introducing other matters; while wages are paid for work done they should be paid to the one who does the work, whether male or female.",
+                    "tokens": [
+                        {
+                            "text": "A",
+                            "lemma": "a",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "dep",
+                            "shape": "X",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "It",
+                            "lemma": "-PRON-",
+                            "pos": "PRON",
+                            "tag": "PRP",
+                            "dep": "nsubj",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ccomp",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "not",
+                            "lemma": "not",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "neg",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "honest",
+                            "lemma": "honest",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "PART",
+                            "tag": "TO",
+                            "dep": "aux",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "postpone",
+                            "lemma": "postpone",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "xcomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "or",
+                            "lemma": "or",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "evade",
+                            "lemma": "evade",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "action",
+                            "lemma": "action",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "by",
+                            "lemma": "by",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "introducing",
+                            "lemma": "introduce",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "pcomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "other",
+                            "lemma": "other",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "matters",
+                            "lemma": "matter",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ";",
+                            "lemma": ";",
+                            "pos": "PUNCT",
+                            "tag": ":",
+                            "dep": "punct",
+                            "shape": ";",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "while",
+                            "lemma": "while",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "mark",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "wages",
+                            "lemma": "wage",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubjpass",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "are",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "auxpass",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "paid",
+                            "lemma": "pay",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "advcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "work",
+                            "lemma": "work",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "done",
+                            "lemma": "do",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "advcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "they",
+                            "lemma": "-PRON-",
+                            "pos": "PRON",
+                            "tag": "PRP",
+                            "dep": "nsubjpass",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "should",
+                            "lemma": "should",
+                            "pos": "VERB",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "be",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "auxpass",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "paid",
+                            "lemma": "pay",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "one",
+                            "lemma": "one",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "who",
+                            "lemma": "who",
+                            "pos": "PRON",
+                            "tag": "WP",
+                            "dep": "nsubj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "does",
+                            "lemma": "do",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "relcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "work",
+                            "lemma": "work",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "whether",
+                            "lemma": "whether",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "mark",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "male",
+                            "lemma": "male",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "advcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "or",
+                            "lemma": "or",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "female",
+                            "lemma": "female",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "While the danger of inflation is grave and must be guarded Jo against it is not fair to use it as an argument against women having more money while a large percentage of workers, mainly men, have been receiving wage advances, including miners, agricultural workers, transport workers, catering employees, shop assistants, clerical and printing workers, etc.",
+                    "ascii": "While the danger of inflation is grave and must be guarded Jo against it is not fair to use it as an argument against women having more money while a large percentage of workers, mainly men, have been receiving wage advances, including miners, agricultural workers, transport workers, catering employees, shop assistants, clerical and printing workers, etc.",
+                    "tokens": [
+                        {
+                            "text": "While",
+                            "lemma": "while",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "mark",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "danger",
+                            "lemma": "danger",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "inflation",
+                            "lemma": "inflation",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "advcl",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "grave",
+                            "lemma": "grave",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "must",
+                            "lemma": "must",
+                            "pos": "VERB",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "be",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "auxpass",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "guarded",
+                            "lemma": "guard",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Jo",
+                            "lemma": "Jo",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "dobj",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "against",
+                            "lemma": "against",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "it",
+                            "lemma": "-PRON-",
+                            "pos": "PRON",
+                            "tag": "PRP",
+                            "dep": "pobj",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ROOT",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "not",
+                            "lemma": "not",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "neg",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "fair",
+                            "lemma": "fair",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "acomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "PART",
+                            "tag": "TO",
+                            "dep": "aux",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "use",
+                            "lemma": "use",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "xcomp",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "it",
+                            "lemma": "-PRON-",
+                            "pos": "PRON",
+                            "tag": "PRP",
+                            "dep": "dobj",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "as",
+                            "lemma": "as",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "an",
+                            "lemma": "an",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "argument",
+                            "lemma": "argument",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "against",
+                            "lemma": "against",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "women",
+                            "lemma": "woman",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "having",
+                            "lemma": "have",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "acl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "more",
+                            "lemma": "more",
+                            "pos": "ADJ",
+                            "tag": "JJR",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "money",
+                            "lemma": "money",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "while",
+                            "lemma": "while",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "mark",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "a",
+                            "lemma": "a",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "x",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "large",
+                            "lemma": "large",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "percentage",
+                            "lemma": "percentage",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "workers",
+                            "lemma": "worker",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "mainly",
+                            "lemma": "mainly",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "advmod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "men",
+                            "lemma": "man",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "appos",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "have",
+                            "lemma": "have",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "been",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "receiving",
+                            "lemma": "receive",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "advcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "wage",
+                            "lemma": "wage",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "advances",
+                            "lemma": "advance",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "including",
+                            "lemma": "include",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "miners",
+                            "lemma": "miner",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "agricultural",
+                            "lemma": "agricultural",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "workers",
+                            "lemma": "worker",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "transport",
+                            "lemma": "transport",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "workers",
+                            "lemma": "worker",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "catering",
+                            "lemma": "cater",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "employees",
+                            "lemma": "employee",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "shop",
+                            "lemma": "shop",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "compound",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "assistants",
+                            "lemma": "assistant",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "clerical",
+                            "lemma": "clerical",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "printing",
+                            "lemma": "print",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "workers",
+                            "lemma": "worker",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "etc",
+                            "lemma": "etc",
+                            "pos": "X",
+                            "tag": "FW",
+                            "dep": "conj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "More than a dozen advances some to Civil Servants have been granted since equal pay was refused.",
+                    "ascii": "More than a dozen advances some to Civil Servants have been granted since equal pay was refused.",
+                    "tokens": [
+                        {
+                            "text": "More than a dozen",
+                            "lemma": "More",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "Xxxx xxxx x xxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "advances",
+                            "lemma": "advance",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "nsubjpass",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "some",
+                            "lemma": "some",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Civil Servants",
+                            "lemma": "civil",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "Xxxxx Xxxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "have",
+                            "lemma": "have",
+                            "pos": "VERB",
+                            "tag": "VBP",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "been",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "auxpass",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "granted",
+                            "lemma": "grant",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "since",
+                            "lemma": "since",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "mark",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "equal",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "pay",
+                            "lemma": "pay",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubjpass",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "was",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBD",
+                            "dep": "auxpass",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "refused",
+                            "lemma": "refuse",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "advcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "6 The cost of Equal Pay in the Civil Service and other employ ments for which the Government is directly or indirectly responsible could not possibly make the difference between national safety and bankruptcy.",
+                    "ascii": "6 The cost of Equal Pay in the Civil Service and other employ ments for which the Government is directly or indirectly responsible could not possibly make the difference between national safety and bankruptcy.",
+                    "tokens": [
+                        {
+                            "text": "6",
+                            "lemma": "6",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "meta",
+                            "shape": "d",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "The",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "cost",
+                            "lemma": "cost",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Equal Pay in the Civil Service",
+                            "lemma": "Equal",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "csubj",
+                            "shape": "Xxxxx Xxx xx xxx Xxxxx Xxxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "other",
+                            "lemma": "other",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "employ",
+                            "lemma": "employ",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "ments",
+                            "lemma": "ment",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "which",
+                            "lemma": "which",
+                            "pos": "DET",
+                            "tag": "WDT",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Government",
+                            "lemma": "Government",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "nsubj",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "relcl",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "directly",
+                            "lemma": "directly",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "advmod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "or",
+                            "lemma": "or",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "indirectly",
+                            "lemma": "indirectly",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "advmod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "responsible",
+                            "lemma": "responsible",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "could",
+                            "lemma": "could",
+                            "pos": "VERB",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "not",
+                            "lemma": "not",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "neg",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "possibly",
+                            "lemma": "possibly",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "advmod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "make",
+                            "lemma": "make",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "difference",
+                            "lemma": "difference",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "between",
+                            "lemma": "between",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "national",
+                            "lemma": "national",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "safety",
+                            "lemma": "safety",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "bankruptcy",
+                            "lemma": "bankruptcy",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "The Government estimate for Equal Pay for those directly or indirectly in their service is roughly 24 million pounds.",
+                    "ascii": "The Government estimate for Equal Pay for those directly or indirectly in their service is roughly 24 million pounds.",
+                    "tokens": [
+                        {
+                            "text": "The",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Government",
+                            "lemma": "Government",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "estimate",
+                            "lemma": "estimate",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "mark",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "Equal",
+                            "lemma": "Equal",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "nsubj",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Pay",
+                            "lemma": "Pay",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "advcl",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "those",
+                            "lemma": "those",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "directly",
+                            "lemma": "directly",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "advmod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "or",
+                            "lemma": "or",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "indirectly",
+                            "lemma": "indirectly",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "in",
+                            "lemma": "in",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "their",
+                            "lemma": "-PRON-",
+                            "pos": "DET",
+                            "tag": "PRP$",
+                            "dep": "poss",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "service",
+                            "lemma": "service",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "is",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBZ",
+                            "dep": "ROOT",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "roughly 24 million pounds",
+                            "lemma": "roughly",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "attr",
+                            "shape": "xxxx dd xxxx xxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "We spent 16 million per day during part of the last war.",
+                    "ascii": "We spent 16 million per day during part of the last war.",
+                    "tokens": [
+                        {
+                            "text": "We",
+                            "lemma": "-PRON-",
+                            "pos": "PRON",
+                            "tag": "PRP",
+                            "dep": "nsubj",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "spent",
+                            "lemma": "spend",
+                            "pos": "VERB",
+                            "tag": "VBD",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "16 million",
+                            "lemma": "16",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "dobj",
+                            "shape": "dd xxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "per",
+                            "lemma": "per",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "day",
+                            "lemma": "day",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "during",
+                            "lemma": "during",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "part",
+                            "lemma": "part",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "last",
+                            "lemma": "last",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "war",
+                            "lemma": "war",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "TO AVOID INFLATION and solve the national financial crisis every section of the community must contribute to a common effort.",
+                    "ascii": "TO AVOID INFLATION and solve the national financial crisis every section of the community must contribute to a common effort.",
+                    "tokens": [
+                        {
+                            "text": "TO",
+                            "lemma": "to",
+                            "pos": "PART",
+                            "tag": "TO",
+                            "dep": "aux",
+                            "shape": "XX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "AVOID",
+                            "lemma": "avoid",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "advcl",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "INFLATION",
+                            "lemma": "inflation",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "and",
+                            "lemma": "and",
+                            "pos": "CCONJ",
+                            "tag": "CC",
+                            "dep": "cc",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "solve",
+                            "lemma": "solve",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "conj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "national",
+                            "lemma": "national",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "financial",
+                            "lemma": "financial",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "crisis",
+                            "lemma": "crisis",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "every",
+                            "lemma": "every",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "section",
+                            "lemma": "section",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "of",
+                            "lemma": "of",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "community",
+                            "lemma": "community",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "must",
+                            "lemma": "must",
+                            "pos": "VERB",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "contribute",
+                            "lemma": "contribute",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "a",
+                            "lemma": "a",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "x",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "common",
+                            "lemma": "common",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "effort",
+                            "lemma": "effort",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "It cannot be solved by delaying fair payment to women for equal work.",
+                    "ascii": "It cannot be solved by delaying fair payment to women for equal work.",
+                    "tokens": [
+                        {
+                            "text": "It",
+                            "lemma": "-PRON-",
+                            "pos": "PRON",
+                            "tag": "PRP",
+                            "dep": "nsubjpass",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "can",
+                            "lemma": "can",
+                            "pos": "AUX",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "not",
+                            "lemma": "not",
+                            "pos": "ADV",
+                            "tag": "RB",
+                            "dep": "neg",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "be",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "auxpass",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "solved",
+                            "lemma": "solve",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "ROOT",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "by",
+                            "lemma": "by",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "delaying",
+                            "lemma": "delay",
+                            "pos": "VERB",
+                            "tag": "VBG",
+                            "dep": "pcomp",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "fair",
+                            "lemma": "fair",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "payment",
+                            "lemma": "payment",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "women",
+                            "lemma": "woman",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "for",
+                            "lemma": "for",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "prep",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "equal",
+                            "lemma": "equal",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "work",
+                            "lemma": "work",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "pobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Why should women be the only workers to accept a sacrifice?",
+                    "ascii": "Why should women be the only workers to accept a sacrifice?",
+                    "tokens": [
+                        {
+                            "text": "Why",
+                            "lemma": "why",
+                            "pos": "ADV",
+                            "tag": "WRB",
+                            "dep": "advmod",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "should",
+                            "lemma": "should",
+                            "pos": "VERB",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "women",
+                            "lemma": "woman",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "nsubj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "be",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "ROOT",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "the",
+                            "lemma": "the",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "xxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "only",
+                            "lemma": "only",
+                            "pos": "ADJ",
+                            "tag": "JJ",
+                            "dep": "amod",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "workers",
+                            "lemma": "worker",
+                            "pos": "NOUN",
+                            "tag": "NNS",
+                            "dep": "attr",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "to",
+                            "lemma": "to",
+                            "pos": "PART",
+                            "tag": "TO",
+                            "dep": "aux",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "accept",
+                            "lemma": "accept",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "relcl",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "a",
+                            "lemma": "a",
+                            "pos": "DET",
+                            "tag": "DT",
+                            "dep": "det",
+                            "shape": "x",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "sacrifice",
+                            "lemma": "sacrifice",
+                            "pos": "NOUN",
+                            "tag": "NN",
+                            "dep": "dobj",
+                            "shape": "xxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "?",
+                            "lemma": "?",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": "?",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "WAS PROMISED MUST BE GIVEN Equal Pay Demonstration Committee, Hon.",
+                    "ascii": "WAS PROMISED MUST BE GIVEN Equal Pay Demonstration Committee, Hon.",
+                    "tokens": [
+                        {
+                            "text": "WAS",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VBD",
+                            "dep": "auxpass",
+                            "shape": "XXX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "PROMISED",
+                            "lemma": "promise",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "nsubjpass",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "MUST",
+                            "lemma": "MUST",
+                            "pos": "VERB",
+                            "tag": "MD",
+                            "dep": "aux",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "BE",
+                            "lemma": "be",
+                            "pos": "VERB",
+                            "tag": "VB",
+                            "dep": "auxpass",
+                            "shape": "XX",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "GIVEN",
+                            "lemma": "give",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "ROOT",
+                            "shape": "XXXX",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Equal Pay Demonstration Committee",
+                            "lemma": "Equal",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "dobj",
+                            "shape": "Xxxxx Xxx Xxxxx Xxxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Hon",
+                            "lemma": "Hon",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "Xxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Secretary: Mrs. Popplewell, \" Kilspindie, \" Wonersh Park, Nr.",
+                    "ascii": "Secretary: Mrs. Popplewell, \" Kilspindie, \" Wonersh Park, Nr.",
+                    "tokens": [
+                        {
+                            "text": "Secretary",
+                            "lemma": "Secretary",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "dep",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ":",
+                            "lemma": ":",
+                            "pos": "PUNCT",
+                            "tag": ":",
+                            "dep": "punct",
+                            "shape": ":",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Mrs.",
+                            "lemma": "Mrs.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "compound",
+                            "shape": "Xxx.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Popplewell",
+                            "lemma": "Popplewell",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "\"",
+                            "lemma": "\"",
+                            "pos": "PUNCT",
+                            "tag": "``",
+                            "dep": "punct",
+                            "shape": "\"",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Kilspindie",
+                            "lemma": "Kilspindie",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "ROOT",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "\"",
+                            "lemma": "\"",
+                            "pos": "PUNCT",
+                            "tag": "``",
+                            "dep": "punct",
+                            "shape": "\"",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Wonersh Park",
+                            "lemma": "Wonersh",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "Xxxxx Xxxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Nr",
+                            "lemma": "Nr",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "Xx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Guildford, Surrey.",
+                    "ascii": "Guildford, Surrey.",
+                    "tokens": [
+                        {
+                            "text": "Guildford",
+                            "lemma": "Guildford",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "ROOT",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Surrey",
+                            "lemma": "Surrey",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Printed by C. A. Brock& Co. Ltd.,( T. U.), 79 Southern Row, London, W. 10.",
+                    "ascii": "Printed by C. A. Brock& Co. Ltd.,( T. U.), 79 Southern Row, London, W. 10.",
+                    "tokens": [
+                        {
+                            "text": "Printed",
+                            "lemma": "print",
+                            "pos": "VERB",
+                            "tag": "VBN",
+                            "dep": "ROOT",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "by",
+                            "lemma": "by",
+                            "pos": "ADP",
+                            "tag": "IN",
+                            "dep": "agent",
+                            "shape": "xx",
+                            "alpha": true,
+                            "is_stop": true
+                        },
+                        {
+                            "text": "C. A. Brock& Co. Ltd.",
+                            "lemma": "C.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "pobj",
+                            "shape": "X. X. Xxxxx& Xx. Xxx.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "(",
+                            "lemma": "(",
+                            "pos": "PUNCT",
+                            "tag": "-LRB-",
+                            "dep": "punct",
+                            "shape": "(",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "T. U.",
+                            "lemma": "T.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "dep",
+                            "shape": "X. X.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ")",
+                            "lemma": ")",
+                            "pos": "PUNCT",
+                            "tag": "-RRB-",
+                            "dep": "punct",
+                            "shape": ")",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "79",
+                            "lemma": "79",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "nummod",
+                            "shape": "dd",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "Southern Row",
+                            "lemma": "Southern",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "conj",
+                            "shape": "Xxxxx Xxx",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "London",
+                            "lemma": "London",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "Xxxxx",
+                            "alpha": true,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ",",
+                            "lemma": ",",
+                            "pos": "PUNCT",
+                            "tag": ",",
+                            "dep": "punct",
+                            "shape": ",",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "W.",
+                            "lemma": "W.",
+                            "pos": "PROPN",
+                            "tag": "NNP",
+                            "dep": "npadvmod",
+                            "shape": "X.",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": "10",
+                            "lemma": "10",
+                            "pos": "NUM",
+                            "tag": "CD",
+                            "dep": "nummod",
+                            "shape": "dd",
+                            "alpha": false,
+                            "is_stop": false
+                        },
+                        {
+                            "text": ".",
+                            "lemma": ".",
+                            "pos": "PUNCT",
+                            "tag": ".",
+                            "dep": "punct",
+                            "shape": ".",
+                            "alpha": false,
+                            "is_stop": false
+                        }
+                    ]
+                }
+            ],
+            "proper_nouns": [
+                "| 1/ 22",
+                "Government",
+                "Equal Pay",
+                "Chancellor",
+                "Exchequer",
+                "Mr.",
+                "Hugh Dalton",
+                "the Trades Union Congress Conference",
+                "Labour",
+                "Party Conference",
+                "the Labour Party",
+                "New",
+                "World",
+                "Jo",
+                "Equal Pay in the Civil Service",
+                "Government",
+                "Government",
+                "Equal",
+                "Pay",
+                "Equal Pay Demonstration Committee",
+                "Hon",
+                "Secretary",
+                "Mrs.",
+                "Popplewell",
+                "Kilspindie",
+                "Wonersh Park",
+                "Nr",
+                "Guildford",
+                "Surrey",
+                "C. A. Brock& Co. Ltd.",
+                "T. U.",
+                "Southern Row",
+                "London",
+                "W."
+            ],
+            "lemmas": [
+                "outl",
+                "woman",
+                "equal",
+                "pay",
+                "government",
+                "pledge",
+                "establish",
+                "chancellor",
+                "exchequer",
+                "say",
+                "difference",
+                "payment",
+                "work",
+                "respect",
+                "sex",
+                "labour",
+                "pass",
+                "resolution",
+                "call",
+                "equal",
+                "pay",
+                "delay",
+                "equal",
+                "pay",
+                "mere",
+                "change",
+                "wage",
+                "rate",
+                "fundamental",
+                "principle",
+                "human",
+                "equality",
+                "claim",
+                "foundation",
+                "new",
+                "world",
+                "honest",
+                "postpone",
+                "evade",
+                "action",
+                "introduce",
+                "matter",
+                "wage",
+                "pay",
+                "work",
+                "pay",
+                "work",
+                "male",
+                "female",
+                "danger",
+                "inflation",
+                "grave",
+                "guard",
+                "fair",
+                "use",
+                "argument",
+                "woman",
+                "have",
+                "money",
+                "large",
+                "percentage",
+                "worker",
+                "mainly",
+                "man",
+                "receive",
+                "wage",
+                "advance",
+                "include",
+                "miner",
+                "agricultural",
+                "worker",
+                "transport",
+                "worker",
+                "cater",
+                "employee",
+                "shop",
+                "assistant",
+                "clerical",
+                "print",
+                "worker",
+                "etc",
+                "advance",
+                "grant",
+                "equal",
+                "pay",
+                "refuse",
+                "cost",
+                "employ",
+                "ment",
+                "government",
+                "directly",
+                "indirectly",
+                "responsible",
+                "possibly",
+                "difference",
+                "national",
+                "safety",
+                "bankruptcy",
+                "government",
+                "estimate",
+                "equal",
+                "pay",
+                "directly",
+                "indirectly",
+                "service",
+                "spend",
+                "day",
+                "war",
+                "avoid",
+                "inflation",
+                "solve",
+                "national",
+                "financial",
+                "crisis",
+                "section",
+                "community",
+                "contribute",
+                "common",
+                "effort",
+                "solve",
+                "delay",
+                "fair",
+                "payment",
+                "woman",
+                "equal",
+                "work",
+                "woman",
+                "worker",
+                "accept",
+                "sacrifice",
+                "promise",
+                "give",
+                "hon",
+                "secretary",
+                "popplewell",
+                "kilspindie",
+                "guildford",
+                "surrey",
+                "print",
+                "london"
+            ],
+            "entities": [
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "| 1/ 22"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "Equal Pay"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "DATE",
+                    "text": "June 11th, 1947"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "PERSON",
+                    "text": "Hugh Dalton"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "the Trades Union Congress Conference"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "Labour"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "Party Conference"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "the Labour Party"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "PERSON",
+                    "text": "Jo"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "Civil Servants"
+                },
+                {
+                    "entity_count": 2,
+                    "label": "ORG",
+                    "text": "Government"
+                },
+                {
+                    "entity_count": 2,
+                    "label": "ORG",
+                    "text": "Government"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "Equal Pay Demonstration Committee"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "PERSON",
+                    "text": "Hon"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "PERSON",
+                    "text": "Popplewell"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "PERSON",
+                    "text": "Kilspindie"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "GPE",
+                    "text": "Wonersh Park"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "GPE",
+                    "text": "Nr"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "GPE",
+                    "text": "Guildford"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "GPE",
+                    "text": "Surrey"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "C. A. Brock& Co. Ltd."
+                },
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "T. U."
+                },
+                {
+                    "entity_count": 1,
+                    "label": "ORG",
+                    "text": "Southern Row"
+                },
+                {
+                    "entity_count": 1,
+                    "label": "GPE",
+                    "text": "London"
+                }
+            ],
+            "ocr_allcaps": [
+                "WOMEN MUST HAVE EQUAL PAY BECAUSE",
+                "A",
+                "TO AVOID INFLATION",
+                "WAS PROMISED MUST BE GIVEN",
+                "C",
+                "A",
+                "T",
+                "U",
+                "W"
+            ]
+        }
+    ],
+    "manifest_text": "outl | 1/ 22. WOMEN MUST HAVE EQUAL PAY BECAUSE .... The Government is pledged to establish Equal Pay. On 1. June 11th, 1947, the Chancellor of the Exchequer, Mr. Hugh Dalton said: \" There should be no difference of payment for the same work in respect of sex. \" Both the Trades Union Congress Conference and Labour . Party Conference have passed resolutions calling for:\" equal pay without delay.' 2 Equal Pay is not a mere change of wage rates, it is a . fundamental principle of human equality, and claimed by the Labour Party as part of their foundation for a New World. A It is not honest to postpone or evade action by introducing other matters; while wages are paid for work done they should be paid to the one who does the work, whether male or female. While the danger of inflation is grave and must be guarded Jo against it is not fair to use it as an argument against women having more money while a large percentage of workers, mainly men, have been receiving wage advances, including miners, agricultural workers, transport workers, catering employees, shop assistants, clerical and printing workers, etc. More than a dozen advances some to Civil Servants have been granted since equal pay was refused. 6 The cost of Equal Pay in the Civil Service and other employ ments for which the Government is directly or indirectly responsible could not possibly make the difference between national safety and bankruptcy. The Government estimate for Equal Pay for those directly or indirectly in their service is roughly 24 million pounds. We spent 16 million per day during part of the last war. TO AVOID INFLATION and solve the national financial crisis every section of the community must contribute to a common effort. It cannot be solved by delaying fair payment to women for equal work. Why should women be the only workers to accept a sacrifice? WAS PROMISED MUST BE GIVEN Equal Pay Demonstration Committee, Hon. Secretary: Mrs. Popplewell, \" Kilspindie, \" Wonersh Park, Nr. Guildford, Surrey. Printed by C. A. Brock& Co. Ltd.,( T. U.), 79 Southern Row, London, W. 10.",
+    "text_summaries": [
+        {
+            "summarizer": "LSA",
+            "summary": "June 11th, 1947, the Chancellor of the Exchequer, Mr. Hugh Dalton said: \" There should be no difference of payment for the same work in respect of sex. \"<br>fundamental principle of human equality, and claimed by the Labour Party as part of their foundation for a New World.<br>6 The cost of Equal Pay in the Civil Service and other employ ments for which the Government is directly or indirectly responsible could not possibly make the difference between national safety and bankruptcy.<br>The Government estimate for Equal Pay for those directly or indirectly in their service is roughly 24 million pounds.<br>TO AVOID INFLATION and solve the national financial crisis every section of the community must contribute to a common effort."
+        },
+        {
+            "summarizer": "Luhn",
+            "summary": "Party Conference have passed resolutions calling for:\" equal pay without delay.'<br>fundamental principle of human equality, and claimed by the Labour Party as part of their foundation for a New World.<br>6 The cost of Equal Pay in the Civil Service and other employ ments for which the Government is directly or indirectly responsible could not possibly make the difference between national safety and bankruptcy.<br>The Government estimate for Equal Pay for those directly or indirectly in their service is roughly 24 million pounds.<br>It cannot be solved by delaying fair payment to women for equal work."
+        },
+        {
+            "summarizer": "Reduction",
+            "summary": "WOMEN MUST HAVE EQUAL PAY BECAUSE ....<br>The Government is pledged to establish Equal Pay.<br>Party Conference have passed resolutions calling for:\" equal pay without delay.'<br>6 The cost of Equal Pay in the Civil Service and other employ ments for which the Government is directly or indirectly responsible could not possibly make the difference between national safety and bankruptcy.<br>The Government estimate for Equal Pay for those directly or indirectly in their service is roughly 24 million pounds."
+        },
+        {
+            "summarizer": "KL",
+            "summary": "While the danger of inflation is grave and must be guarded Jo against it is not fair to use it as an argument against women having more money while a large percentage of workers, mainly men, have been receiving wage advances, including miners, agricultural workers, transport workers, catering employees, shop assistants, clerical and printing workers, etc.<br>TO AVOID INFLATION and solve the national financial crisis every section of the community must contribute to a common effort.<br>Why should women be the only workers to accept a sacrifice?<br>Secretary: Mrs. Popplewell, \" Kilspindie, \" Wonersh Park, Nr.<br>), 79 Southern Row, London, W. 10."
+        },
+        {
+            "summarizer": "TextRank",
+            "summary": "WOMEN MUST HAVE EQUAL PAY BECAUSE ....<br>While the danger of inflation is grave and must be guarded Jo against it is not fair to use it as an argument against women having more money while a large percentage of workers, mainly men, have been receiving wage advances, including miners, agricultural workers, transport workers, catering employees, shop assistants, clerical and printing workers, etc.<br>6 The cost of Equal Pay in the Civil Service and other employ ments for which the Government is directly or indirectly responsible could not possibly make the difference between national safety and bankruptcy.<br>The Government estimate for Equal Pay for those directly or indirectly in their service is roughly 24 million pounds.<br>It cannot be solved by delaying fair payment to women for equal work."
+        },
+        {
+            "summarizer": "LexRank",
+            "summary": "WOMEN MUST HAVE EQUAL PAY BECAUSE ....<br>Party Conference have passed resolutions calling for:\" equal pay without delay.'<br>The Government estimate for Equal Pay for those directly or indirectly in their service is roughly 24 million pounds.<br>It cannot be solved by delaying fair payment to women for equal work.<br>Why should women be the only workers to accept a sacrifice?"
+        }
+    ],
+    "lemmas": [
+        "outl",
+        "woman",
+        "equal",
+        "pay",
+        "government",
+        "pledge",
+        "establish",
+        "chancellor",
+        "exchequer",
+        "say",
+        "difference",
+        "payment",
+        "work",
+        "respect",
+        "sex",
+        "labour",
+        "pass",
+        "resolution",
+        "call",
+        "equal",
+        "pay",
+        "delay",
+        "equal",
+        "pay",
+        "mere",
+        "change",
+        "wage",
+        "rate",
+        "fundamental",
+        "principle",
+        "human",
+        "equality",
+        "claim",
+        "foundation",
+        "new",
+        "world",
+        "honest",
+        "postpone",
+        "evade",
+        "action",
+        "introduce",
+        "matter",
+        "wage",
+        "pay",
+        "work",
+        "pay",
+        "work",
+        "male",
+        "female",
+        "danger",
+        "inflation",
+        "grave",
+        "guard",
+        "fair",
+        "use",
+        "argument",
+        "woman",
+        "have",
+        "money",
+        "large",
+        "percentage",
+        "worker",
+        "mainly",
+        "man",
+        "receive",
+        "wage",
+        "advance",
+        "include",
+        "miner",
+        "agricultural",
+        "worker",
+        "transport",
+        "worker",
+        "cater",
+        "employee",
+        "shop",
+        "assistant",
+        "clerical",
+        "print",
+        "worker",
+        "etc",
+        "advance",
+        "grant",
+        "equal",
+        "pay",
+        "refuse",
+        "cost",
+        "employ",
+        "ment",
+        "government",
+        "directly",
+        "indirectly",
+        "responsible",
+        "possibly",
+        "difference",
+        "national",
+        "safety",
+        "bankruptcy",
+        "government",
+        "estimate",
+        "equal",
+        "pay",
+        "directly",
+        "indirectly",
+        "service",
+        "spend",
+        "day",
+        "war",
+        "avoid",
+        "inflation",
+        "solve",
+        "national",
+        "financial",
+        "crisis",
+        "section",
+        "community",
+        "contribute",
+        "common",
+        "effort",
+        "solve",
+        "delay",
+        "fair",
+        "payment",
+        "woman",
+        "equal",
+        "work",
+        "woman",
+        "worker",
+        "accept",
+        "sacrifice",
+        "promise",
+        "give",
+        "hon",
+        "secretary",
+        "popplewell",
+        "kilspindie",
+        "guildford",
+        "surrey",
+        "print",
+        "london"
+    ],
+    "entities": {
+        "ORG": [
+            "Equal Pay",
+            "Civil Servants",
+            "Labour",
+            "| 1/ 22",
+            "C. A. Brock& Co. Ltd.",
+            "the Trades Union Congress Conference",
+            "Government",
+            "the Labour Party",
+            "Equal Pay Demonstration Committee",
+            "Party Conference",
+            "Southern Row",
+            "T. U."
+        ],
+        "DATE": [
+            "June 11th, 1947"
+        ],
+        "PERSON": [
+            "Popplewell",
+            "Jo",
+            "Kilspindie",
+            "Hon",
+            "Hugh Dalton"
+        ],
+        "GPE": [
+            "London",
+            "Surrey",
+            "Wonersh Park",
+            "Nr",
+            "Guildford"
+        ]
+    },
+    "corpus": "outl woman equal pay government pledge establish chancellor exchequer say difference payment work respect sex labour pass resolution call equal pay delay equal pay mere change wage rate fundamental principle human equality claim foundation new world honest postpone evade action introduce matter wage pay work pay work male female danger inflation grave guard fair use argument woman have money large percentage worker mainly man receive wage advance include miner agricultural worker transport worker cater employee shop assistant clerical print worker etc advance grant equal pay refuse cost employ ment government directly indirectly responsible possibly difference national safety bankruptcy government estimate equal pay directly indirectly service spend day war avoid inflation solve national financial crisis section community contribute common effort solve delay fair payment woman equal work woman worker accept sacrifice promise give hon secretary popplewell kilspindie guildford surrey print london",
+    "top_10_words": [
+        [
+            "pay",
+            7
+        ],
+        [
+            "equal",
+            6
+        ],
+        [
+            "worker",
+            5
+        ],
+        [
+            "woman",
+            4
+        ],
+        [
+            "work",
+            4
+        ],
+        [
+            "government",
+            3
+        ],
+        [
+            "wage",
+            3
+        ],
+        [
+            "difference",
+            2
+        ],
+        [
+            "payment",
+            2
+        ],
+        [
+            "delay",
+            2
+        ]
+    ],
+    "top_10_bigrams": [
+        [
+            "equal pay",
+            5
+        ],
+        [
+            "woman equal",
+            2
+        ],
+        [
+            "pay work",
+            2
+        ],
+        [
+            "directly indirectly",
+            2
+        ],
+        [
+            "outl woman",
+            1
+        ],
+        [
+            "pay government",
+            1
+        ],
+        [
+            "government pledge",
+            1
+        ],
+        [
+            "pledge establish",
+            1
+        ],
+        [
+            "establish chancellor",
+            1
+        ],
+        [
+            "chancellor exchequer",
+            1
+        ]
+    ],
+    "keywords": [
+        {
+            "keyword": "pay",
+            "Term Frequency-Inverse Document Frequency score": 0.29
+        },
+        {
+            "keyword": "equal",
+            "Term Frequency-Inverse Document Frequency score": 0.249
+        },
+        {
+            "keyword": "worker",
+            "Term Frequency-Inverse Document Frequency score": 0.207
+        },
+        {
+            "keyword": "equal pay",
+            "Term Frequency-Inverse Document Frequency score": 0.207
+        },
+        {
+            "keyword": "work",
+            "Term Frequency-Inverse Document Frequency score": 0.166
+        },
+        {
+            "keyword": "woman",
+            "Term Frequency-Inverse Document Frequency score": 0.166
+        },
+        {
+            "keyword": "wage",
+            "Term Frequency-Inverse Document Frequency score": 0.124
+        },
+        {
+            "keyword": "government",
+            "Term Frequency-Inverse Document Frequency score": 0.124
+        },
+        {
+            "keyword": "woman equal",
+            "Term Frequency-Inverse Document Frequency score": 0.083
+        },
+        {
+            "keyword": "solve",
+            "Term Frequency-Inverse Document Frequency score": 0.083
+        }
+    ],
+    "corpus_relative_keywords": [
+        {
+            "keyword": "worker",
+            "Term Frequency-Inverse Document Frequency score": 0.212
+        },
+        {
+            "keyword": "pay",
+            "Term Frequency-Inverse Document Frequency score": 0.152
+        },
+        {
+            "keyword": "inflation",
+            "Term Frequency-Inverse Document Frequency score": 0.137
+        },
+        {
+            "keyword": "indirectly",
+            "Term Frequency-Inverse Document Frequency score": 0.137
+        },
+        {
+            "keyword": "directly indirectly",
+            "Term Frequency-Inverse Document Frequency score": 0.137
+        }
+    ],
+    "subjects_likely": [
+        "Equal pay for equal work.",
+        "Equal pay for equal work--Canada.",
+        "Equal pay for equal work--Australia."
+    ],
+    "subjects_possible": [
+        "Equal pay for equal work.",
+        "Equal pay for equal work--Canada.",
+        "Equal pay for equal work--Australia.",
+        "Equal pay for equal work--United States.",
+        "Equal pay for equal work--Great Britain.",
+        "Europe--women--equal pay.",
+        "Night work.",
+        "National Council and Union of Women Workers of Great Britain and Ireland.",
+        "Bermuda Islands--suffrage movements--organisations--women's--Bermuda Woman Suffrage Societies.",
+        "Sudan--Politics and government."
+    ],
+    "further_data": "https://mattmcgrattan.github.io/LSE/uwt_d_1_1_22_enrichment_new.json"
+}

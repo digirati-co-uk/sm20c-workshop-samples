@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Manifest</title>
+    <style>
+        .container {
+            background: #f9f9f9;
+        }
+
+        .flex-column {
+            max-width: 300px;
+        }
+
+        img {
+            margin: 25px;
+        }
+
+        .scale {
+            transform: scaleY(1);
+            padding-top: 5px;
+        }
+    </style>
+</head>
+<link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet"
+      integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+
+<body>
+<div class="mx-auto" style="width: 80%;">
+    <h1>Extracted data per manifest</h1>
+
+    <table class="table table-bordered table-hover">
+        <tr class="table-primary">
+            <th style="width: 15%">Manifest</th>
+            <td><a href="https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_12.json">https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_12.json</a></td>
+        </tr>
+        <tr>
+            <th>Universal Viewer</th>
+            <td><a href="https://universalviewer.io/uv.html?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_12.json">UV</a></td>
+        </tr>
+        <tr>
+            <th>Mirador</th>
+            <td><a href="https://mirador.dlcs-ida.org/mirador?manifest=https://presley.glam-dev.org/iiif/customer/manifest?manifest_id=http://mattmcgrattan.github.io/LSE/uwt_d_1_1_12.json">Mirador</a></td>
+        </tr>
+        <tr>
+            <th>Number of pages</th>
+            <td>4</td>
+        </tr>
+                <tr>
+            <th>Link to detailed data</th>
+            <td><a href="https://mattmcgrattan.github.io/LSE/uwt_d_1_1_12_enrichment_new.json">Here</a></td>
+        </tr>
+        <tr>
+            <th>Subjects--Likely</th>
+            <td>
+                
+                Equal pay for equal work.<br>
+                
+                Equal pay for equal work--Canada.<br>
+                
+                Equal pay for equal work--Australia.<br>
+                
+                Textile industry.<br>
+                
+            </td>
+        </tr>
+                <tr>
+            <th>Subjects--Possible</th>
+            <td>
+                
+                Equal pay for equal work.<br>
+                
+                Equal pay for equal work--Canada.<br>
+                
+                Equal pay for equal work--Australia.<br>
+                
+                Textile industry.<br>
+                
+                Chemical industry.<br>
+                
+                Equal pay for equal work--United States.<br>
+                
+                Equal pay for equal work--Great Britain.<br>
+                
+                Europe--women--equal pay.<br>
+                
+                Night work.<br>
+                
+                Man-woman relationships.<br>
+                
+            </td>
+        </tr>
+        <th>Keywords--Document Only</th>
+            <td>
+                
+                woman,&nbsp;
+                
+                man,&nbsp;
+                
+                worker,&nbsp;
+                
+                work,&nbsp;
+                
+                rate,&nbsp;
+                
+                equal,&nbsp;
+                
+                pay,&nbsp;
+                
+                wage,&nbsp;
+                
+                job,&nbsp;
+                
+                industry,&nbsp;
+                
+            </td>
+        </tr>
+        <th>Keywords--Relative to Entire Corpus</th>
+            <td>
+                
+                woman,&nbsp;
+                
+                worker,&nbsp;
+                
+                man,&nbsp;
+                
+                men woman,&nbsp;
+                
+                work,&nbsp;
+                
+            </td>
+        </tr>
+                <th>Bigrams</th>
+            <td>
+                
+                ['man woman', 10],&nbsp;
+                
+                ['equal pay', 9],&nbsp;
+                
+                ['men woman', 9],&nbsp;
+                
+                ['pay woman', 6],&nbsp;
+                
+                ['woman worker', 5],&nbsp;
+                
+                ['heavy light', 4],&nbsp;
+                
+                ['work man', 4],&nbsp;
+                
+                ['woman organise', 4],&nbsp;
+                
+                ['pay equal', 3],&nbsp;
+                
+                ['equal work', 3],&nbsp;
+                
+            </td>
+        </tr>
+            <th>Common terms</th>
+            <td>
+                
+                ['woman', 60],&nbsp;
+                
+                ['man', 32],&nbsp;
+                
+                ['worker', 25],&nbsp;
+                
+                ['work', 23],&nbsp;
+                
+                ['equal', 19],&nbsp;
+                
+                ['rate', 19],&nbsp;
+                
+                ['pay', 18],&nbsp;
+                
+                ['wage', 13],&nbsp;
+                
+                ['industry', 12],&nbsp;
+                
+                ['job', 12],&nbsp;
+                
+            </td>
+        </tr>
+        <th>Named entities</th>
+            <td>
+                
+                <ul>
+            
+                <dt>ORG</dt>
+                <dd>
+                    the Trades Union Congress<br>
+                    
+                    Family Allowances<br>
+                    
+                    880 Nil ENGINEERING,<br>
+                    
+                    The Open Door Council<br>
+                    
+                    Trade Board<br>
+                    
+                    Trade Union<br>
+                    
+                    Branches and Affiliated Societies<br>
+                    
+                    Secretaries' Unions<br>
+                    
+                    Insurance<br>
+                    
+                    Trade Unionism<br>
+                    
+                    the Amalgamated Association of Card, Blowing and Ring Room Operatives<br>
+                    
+                    Union<br>
+                    
+                    FOUNDRY<br>
+                    
+                    UNITY<br>
+                    
+                    the wo TRADE UNIONISM<br>
+                    
+                    T. U. C. Report<br>
+                    
+                    Kensington Church Street<br>
+                    
+                    Govern<br>
+                    
+                    Ministry of Labour Gazette<br>
+                    
+                    National Society of Pottery Wor<br>
+                    
+                    the Amalgamated Weavers'<br>
+                    
+                    Women Clerks'<br>
+                    
+                    the Open Door Council<br>
+                    
+                    the Trade Boards<br>
+                    
+                    State<br>
+                    
+                    the National Furniture Trades Association<br>
+                    
+                    Trade Unions<br>
+                    
+                    Ironstone Mining<br>
+                    
+                    National Union of Boot and Shoe Operatives<br>
+                    
+                    the Shop Assistants, Administrative Workers'<br>
+                    
+                    The Fac WOMEN AND tory Act<br>
+                    
+                    Equal Pay for Equal Work<br>
+                    
+                    COTTON AND WOOLLEN TEXTILES:<br>
+                    
+                    National Union of Tailors and Garment Workers<br>
+                    
+                    the Ministry of Labour Gazette<br>
+                    
+                    Brassfounder 76/ 6 Wholesale<br>
+                    
+                    The Federation of Women Workers<br>
+                    
+                    Holbrook& Son, Ltd.<br>
+                    
+                    the National Industrial Alliance<br>
+                    
+                    the National Industrial Alliance Conference<br>
+                    
+                    Girton College<br>
+                    
+                    the Trade WOMEN AND Unions<br>
+                    
+                    Industry<br>
+                    
+                    Trade Boards<br>
+                    
+                    the General Labour and Transport Unions<br>
+                    
+                    Trade Unionists<br>
+                    </dd>
+              
+                <dt>DATE</dt>
+                <dd>
+                    Some years ago<br>
+                    
+                    1919<br>
+                    
+                    A few months ago<br>
+                    
+                    1938<br>
+                    
+                    January<br>
+                    
+                    July, 1938<br>
+                    
+                    Jan., 1938<br>
+                    
+                    the war years of 1914 to 1918<br>
+                    
+                    between 1914 and 1918<br>
+                    
+                    78<br>
+                    
+                    last July<br>
+                    
+                    1937<br>
+                    
+                    those days<br>
+                    
+                    Fifteen years ago<br>
+                    
+                    21<br>
+                    
+                    March, 1939<br>
+                    </dd>
+              
+                <dt>PERSON</dt>
+                <dd>
+                    Upholstresses<br>
+                    
+                    Gravedigger<br>
+                    
+                    Hastings<br>
+                    
+                    Act<br>
+                    
+                    Elizabeth Abbott<br>
+                    
+                    Associa<br>
+                    </dd>
+              
+                <dt>FAC</dt>
+                <dd>
+                    Iron Ore WORKER<br>
+                    </dd>
+              
+                <dt>GPE</dt>
+                <dd>
+                    London<br>
+                    
+                    97c<br>
+                    
+                    Portsmouth<br>
+                    
+                    Plymouth<br>
+                    
+                    POTTERY<br>
+                    
+                    T. U.<br>
+                    
+                    Cambridge<br>
+                    </dd>
+              
+                    </ul>
+                
+            </td>
+        </tr>
+             </tr>
+            <th>Extractive summaries</th>
+            <td>
+                
+                <p>
+                <em>LSA</em>: <br> It does not matter where we look: at the arts, or professions, the actor, the doctor, the writer, the artist, the lawyer, or at a set of industrial workers, men and women, and even young people, who are employed on machine processes.<br>She did her work as well as the men who were employed in the same department, but she only received a little over half wages in accordance with the rates then agreed, which I have recently checked in the Ministry of Labour Gazette.<br>Laws dealing with conditions, hours, overtime and night work should be the same for all workers of adult age irrespective of sex.<br>Since those days, however, the Trade Boards have departed from their first principles, and under the arbitrary distinction " classes of persons" it will more often than not be found that sex is the actual basis of the lower rates fixed for women.<br>They should return to their first purpose of fix ing a minimum wage, and should make no dis crimination against the woman taking the job with the rate attached to it.
+                </p>
+                
+                <p>
+                <em>Luhn</em>: <br> Factory legislation controls and segregates her as the eternal juvenile, " the girl who can never grow up," Trade Board legislation con trols and segregates her as the female worker; Trade Union custom and organisation controls and segregates her; while she is the Cinderella of Insurance, whether it be Health or Unem ployment.<br>The posi tion of the woman worker in Trade Unionism is deplorable and equally deplorable is the attitude of Trade Unionism towards women.<br>Comparative figures of men and women in Insurance and men and women in Trade Unions taken from Ministry of Labour Gazette, January, 1938: Insured males 10, 598, 400 Insured females 3, 788, 600 Union men 3, 197, 221 Union women 417, 330 Thus 33% of insured men and about 1112% of insured women are organised in Trade Unions.<br>When the numbers of women in certain strictly industrial unions, namely, the Amalgamated Association of Card, Blowing and Ring Room Operatives; the Amalgamated Weavers' Associa tion; National Union of Tailors and Garment Workers; National Union of Boot and Shoe Operatives; National Society of Pottery Wor kers( total 186, 000) and in the General Labour and Transport Unions( 84, 000), which together have a female membership of 270, 000, are de ducted from the total 417, 000 there are only for the whole of the rest of the field of industry 147, 000 women organised in trade unions, and of these 20, 700 are in the Shop Assistants, Administrative Workers' and Women Clerks' and Secretaries' Unions.<br>MINING: Men 1, 024, 260 523, 860 Women 8, 570 Nil SHIPBUILDING: 169, 930 73, 480 Women 2, 880 Nil ENGINEERING, FOUNDRY, IRON, STEEL AND METAL TRADES: Men 1, 941, 830 448, 634 Women... 371, 660 2, 951 BUILDING, WOODWORKING AND FURNISHING: Men... 1, 527, 750 300, 881 Women .. 50, 330 2, 986 PRINTING AND PAPER: Men 274, 040 129, 426 Women ... 164, 650 31, 893 COTTON AND WOOLLEN TEXTILES: Men 453, 940 145, 701 Women 711, 620 152, 232 CLOTHING AND TAILORING: Men 107, 470 26, 510 Women... 374, 850 59, 449 LEATHER, BOOTS AND SHOES: Men... 128, 560 66, 694 Women ... 81, 810 29, 669 GLASS, POTTERY, CHEMICALS, FOOD AND DRINK: Men 590, 910 78, 603 Women 356, 670 26, 697 DISTRIBUTIVE TRADES: Men 1, 278, 520 103, 919 Women 782, 870 40, 756 AGRICULTURE: Men 651, 100 30, 700 Women.. 38, 900 300 * According to letter from the National Furniture Trades Association the present London rates are higher: Men 1/ 9, Women 1/..
+                </p>
+                
+                <p>
+                <em>Reduction</em>: <br> So the proper formula for this discussion is not Equal Pay for Equal Work but Equal Work and Equal Pay for Women.<br>In one indus try you will be told that WOMEN' S WORK men do the heavy and AND WOMEN' S women the light work, WAGES.<br>Comparative figures of men and women in Insurance and men and women in Trade Unions taken from Ministry of Labour Gazette, January, 1938: Insured males 10, 598, 400 Insured females 3, 788, 600 Union men 3, 197, 221 Union women 417, 330 Thus 33% of insured men and about 1112% of insured women are organised in Trade Unions.<br>When the numbers of women in certain strictly industrial unions, namely, the Amalgamated Association of Card, Blowing and Ring Room Operatives; the Amalgamated Weavers' Associa tion; National Union of Tailors and Garment Workers; National Union of Boot and Shoe Operatives; National Society of Pottery Wor kers( total 186, 000) and in the General Labour and Transport Unions( 84, 000), which together have a female membership of 270, 000, are de ducted from the total 417, 000 there are only for the whole of the rest of the field of industry 147, 000 women organised in trade unions, and of these 20, 700 are in the Shop Assistants, Administrative Workers' and Women Clerks' and Secretaries' Unions.<br>MINING: Men 1, 024, 260 523, 860 Women 8, 570 Nil SHIPBUILDING: 169, 930 73, 480 Women 2, 880 Nil ENGINEERING, FOUNDRY, IRON, STEEL AND METAL TRADES: Men 1, 941, 830 448, 634 Women... 371, 660 2, 951 BUILDING, WOODWORKING AND FURNISHING: Men... 1, 527, 750 300, 881 Women .. 50, 330 2, 986 PRINTING AND PAPER: Men 274, 040 129, 426 Women ... 164, 650 31, 893 COTTON AND WOOLLEN TEXTILES: Men 453, 940 145, 701 Women 711, 620 152, 232 CLOTHING AND TAILORING: Men 107, 470 26, 510 Women... 374, 850 59, 449 LEATHER, BOOTS AND SHOES: Men... 128, 560 66, 694 Women ... 81, 810 29, 669 GLASS, POTTERY, CHEMICALS, FOOD AND DRINK: Men 590, 910 78, 603 Women 356, 670 26, 697 DISTRIBUTIVE TRADES: Men 1, 278, 520 103, 919 Women 782, 870 40, 756 AGRICULTURE: Men 651, 100 30, 700 Women.. 38, 900 300 * According to letter from the National Furniture Trades Association the present London rates are higher: Men 1/ 9, Women 1/..
+                </p>
+                
+                <p>
+                <em>KL</em>: <br> The Open Door Council, which has as part of its objects " to secure that legislation and regulations dealing with conditions and hours, payment, entry and training shall be based on the nature of the work and not on the sex of the worker... " was invited to speak of its work to the National Industrial Alliance Conference at Hastings recently.<br>Factory legislation controls and segregates her as the eternal juvenile, " the girl who can never grow up," Trade Board legislation con trols and segregates her as the female worker; Trade Union custom and organisation controls and segregates her; while she is the Cinderella of Insurance, whether it be Health or Unem ployment.<br>First comes the division of the work itself.<br>MINING: Men 1, 024, 260 523, 860 Women 8, 570 Nil SHIPBUILDING: 169, 930 73, 480 Women 2, 880 Nil ENGINEERING, FOUNDRY, IRON, STEEL AND METAL TRADES: Men 1, 941, 830 448, 634 Women... 371, 660 2, 951 BUILDING, WOODWORKING AND FURNISHING: Men... 1, 527, 750 300, 881 Women .. 50, 330 2, 986 PRINTING AND PAPER: Men 274, 040 129, 426 Women ... 164, 650 31, 893 COTTON AND WOOLLEN TEXTILES: Men 453, 940 145, 701 Women 711, 620 152, 232 CLOTHING AND TAILORING: Men 107, 470 26, 510 Women... 374, 850 59, 449 LEATHER, BOOTS AND SHOES: Men... 128, 560 66, 694 Women ... 81, 810 29, 669 GLASS, POTTERY, CHEMICALS, FOOD AND DRINK: Men 590, 910 78, 603 Women 356, 670 26, 697 DISTRIBUTIVE TRADES: Men 1, 278, 520 103, 919 Women 782, 870 40, 756 AGRICULTURE: Men 651, 100 30, 700 Women.. 38, 900 300 * According to letter from the National Furniture Trades Association the present London rates are higher: Men 1/ 9, Women 1/..<br>A great chance was missed at the time of the passing of this Act and what is now law rests on an unjust foundation .
+                </p>
+                
+                <p>
+                <em>TextRank</em>: <br> So the proper formula for this discussion is not Equal Pay for Equal Work but Equal Work and Equal Pay for Women.<br>In one indus try you will be told that WOMEN' S WORK men do the heavy and AND WOMEN' S women the light work, WAGES.<br>Comparative figures of men and women in Insurance and men and women in Trade Unions taken from Ministry of Labour Gazette, January, 1938: Insured males 10, 598, 400 Insured females 3, 788, 600 Union men 3, 197, 221 Union women 417, 330 Thus 33% of insured men and about 1112% of insured women are organised in Trade Unions.<br>When the numbers of women in certain strictly industrial unions, namely, the Amalgamated Association of Card, Blowing and Ring Room Operatives; the Amalgamated Weavers' Associa tion; National Union of Tailors and Garment Workers; National Union of Boot and Shoe Operatives; National Society of Pottery Wor kers( total 186, 000) and in the General Labour and Transport Unions( 84, 000), which together have a female membership of 270, 000, are de ducted from the total 417, 000 there are only for the whole of the rest of the field of industry 147, 000 women organised in trade unions, and of these 20, 700 are in the Shop Assistants, Administrative Workers' and Women Clerks' and Secretaries' Unions.<br>MINING: Men 1, 024, 260 523, 860 Women 8, 570 Nil SHIPBUILDING: 169, 930 73, 480 Women 2, 880 Nil ENGINEERING, FOUNDRY, IRON, STEEL AND METAL TRADES: Men 1, 941, 830 448, 634 Women... 371, 660 2, 951 BUILDING, WOODWORKING AND FURNISHING: Men... 1, 527, 750 300, 881 Women .. 50, 330 2, 986 PRINTING AND PAPER: Men 274, 040 129, 426 Women ... 164, 650 31, 893 COTTON AND WOOLLEN TEXTILES: Men 453, 940 145, 701 Women 711, 620 152, 232 CLOTHING AND TAILORING: Men 107, 470 26, 510 Women... 374, 850 59, 449 LEATHER, BOOTS AND SHOES: Men... 128, 560 66, 694 Women ... 81, 810 29, 669 GLASS, POTTERY, CHEMICALS, FOOD AND DRINK: Men 590, 910 78, 603 Women 356, 670 26, 697 DISTRIBUTIVE TRADES: Men 1, 278, 520 103, 919 Women 782, 870 40, 756 AGRICULTURE: Men 651, 100 30, 700 Women.. 38, 900 300 * According to letter from the National Furniture Trades Association the present London rates are higher: Men 1/ 9, Women 1/..
+                </p>
+                
+                <p>
+                <em>LexRank</em>: <br> Should rates of pay fo women employed in Industry be the same as those for men?<br>The Open Door Council, which has as part of its objects " to secure that legislation and regulations dealing with conditions and hours, payment, entry and training shall be based on the nature of the work and not on the sex of the worker... " was invited to speak of its work to the National Industrial Alliance Conference at Hastings recently.<br>So the proper formula for this discussion is not Equal Pay for Equal Work but Equal Work and Equal Pay for Women.<br>That is, the right to do the job and to get the rate for the job, not a rate based on the sex of the worker.<br>Where are these women now?
+                </p>
+                
+            </td>
+        </tr>
+        <th colspan="2" style="text-align: left">Page level data</th>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
